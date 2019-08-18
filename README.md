@@ -1,2 +1,3 @@
-# Praktikum-Sistem-Operasi
-Kumpulan kode dari praktikum(pemrograman) mata kuliah Sistem Operasi
+# Modul Praktikum Sistem Operasi Teknik Informatika UPNVJT 2019
+
+Semoga Allah mudahkan :)
