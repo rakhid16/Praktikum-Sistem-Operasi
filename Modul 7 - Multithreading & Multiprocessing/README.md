@@ -9,7 +9,20 @@
 <p align=center>
 <img src="https://techdifferences.com/wp-content/uploads/2017/01/multiprocessing.jpg">
 </p>
-1.
+1. <br>
+2. <br>
+3. <br>
+4. <br>
+
+<p align=center>
+<img src="https://techdifferences.com/wp-content/uploads/2017/01/Multithreading.jpg">
+</p>
+1. <br>
+2. <br>
+3. <br>
+4. <br>
+
+Materi praktikal : github.com/Rakhid16/OArKom/
 
 Referensi :<br>
 https://techdifferences.com/difference-between-multiprocessing-and-multithreading.html<br>
