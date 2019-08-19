@@ -22,7 +22,7 @@
 3 Memerlukan sumber daya memori dan waktu yang sedikit<br>
 4 Memerlukan sinkronisasi memori<br><br>
 
-<a href="github.com/Rakhid16/OArKom/">Materi praktikal</a><br>
+<a href="https://github.com/Rakhid16/OArKom/">Materi praktikal</a><br>
 
 Referensi :<br>
 https://techdifferences.com/difference-between-multiprocessing-and-multithreading.html<br>
