@@ -9,20 +9,20 @@
 <p align=center>
 <img src="https://techdifferences.com/wp-content/uploads/2017/01/multiprocessing.jpg">
 </p>
-1. Menggunakan CPU untuk komputasi<br>
-2. Tidak berbagi sumber daya memori<br>
-3. Memerlukan sumber daya memori dan waktu yang tidak sedikit<br>
-4. Tidak memerlukan sinkronisasi memori<br>
+1 Menggunakan CPU untuk komputasi<br>
+2 Tidak berbagi sumber daya memori<br>
+3 Memerlukan sumber daya memori dan waktu yang tidak sedikit<br>
+4 Tidak memerlukan sinkronisasi memori<br>
 
 <p align=center>
 <img src="https://techdifferences.com/wp-content/uploads/2017/01/Multithreading.jpg">
 </p>
-1. Membuat beberapa <i>thread</i> dari satu proses untuk mempercepat komputasi<br>
-2. Berbagi sumber daya memori<br>
-3. Memerlukan sumber daya memori dan waktu yang sedikit<br>
-4. Memerlukan sinkronisasi memori<br>
+1 Membuat beberapa <i>thread</i> dari satu proses untuk mempercepat komputasi<br>
+2 Berbagi sumber daya memori<br>
+3 Memerlukan sumber daya memori dan waktu yang sedikit<br>
+4 Memerlukan sinkronisasi memori<br><br>
 
-<a href="github.com/Rakhid16/OArKom/">Materi praktikal</a>
+<a href="github.com/Rakhid16/OArKom/">Materi praktikal</a><br>
 
 Referensi :<br>
 https://techdifferences.com/difference-between-multiprocessing-and-multithreading.html<br>
