@@ -11,9 +11,9 @@
 2. Kondisi <i>hold & wait</i>, yaitu proses yang sedang memegang sebuah sumber daya boleh meminta sumber daya yang lain.<br>
 3. Tidak  ada  kondisi <i>pre-emption</i>. Sumber daya yang sedang digunakan oleh sebuah proses tidak dapat diambil secara paksa, tetapi harus dilepas secara eksplisit oleh proses yang sedang menggunakannya.<br>
 4. Kondisi tunggu yang melingkar. Harus ada sebuah rantai melingkar dari dua atau lebih proses yang sedang dipegang oleh proses yang lain dalam rantai tersebut.</p>
-<p align=justify>&emsp;&emsp;&emsp;Secara umum ada empat cara untuk menangani <i>deadlock</i>, yaitu:<br>
-Mengabaikan permasalahan(<i>The Ostrich Algorithm</i>).<br>
-Deteksi dan pemulihan(<i>recovery</i>).<br>
-Pencegahan, dengan meniadakan salah satu dari empat kondisi <i>deadlock</i>.<br>
-Pengalokasian sumber daya yang efisien.
+<p>Secara umum ada empat cara untuk menangani <i>deadlock</i>, yaitu:<br>
+1. Mengabaikan permasalahan(<i>The Ostrich Algorithm</i>).<br>
+2. Deteksi dan pemulihan(<i>recovery</i>).<br>
+3. Pencegahan, dengan meniadakan salah satu dari empat kondisi <i>deadlock</i>.<br>
+4. Pengalokasian sumber daya yang efisien.
 </p>
