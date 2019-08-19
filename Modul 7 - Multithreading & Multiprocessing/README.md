@@ -12,7 +12,7 @@
 1 Menggunakan CPU untuk komputasi<br>
 2 Tidak berbagi sumber daya memori<br>
 3 Memerlukan sumber daya memori dan waktu yang tidak sedikit<br>
-4 Tidak memerlukan sinkronisasi memori<br>
+4 Tidak memerlukan sinkronisasi memori<br><br>
 
 <p align=center>
 <img src="https://techdifferences.com/wp-content/uploads/2017/01/Multithreading.jpg">
