@@ -17,3 +17,5 @@
 3. Pencegahan, dengan meniadakan salah satu dari empat kondisi <i>deadlock</i>.<br>
 4. Pengalokasian sumber daya yang efisien.
 </p>
+
+<i>Postscript</i>: Soal praktikum/latihan akan diberikan di kelas.
