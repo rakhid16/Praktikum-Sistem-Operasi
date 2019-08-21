@@ -9,11 +9,8 @@ Pemrograman bash shell itu sendiri adalah pemrograman kumpulan perintah mengguna
 pwd<br>
 ls<br>
 cd<br>
-cat<br>
-more<br>
-less<br>
+cat(alternatif lain adalah more dan less)<br>
 nano<br>
-touch<br>
 mkdir<br>
 rm<br>
 rmdir<br>
@@ -37,9 +34,18 @@ systemctl suspend<br>
 wget<br>
 curl<br><br>
 
-bonus :<br>
-update, upgrade, autoremove, autoclean<br>
-software installation(deb, apt, url, targz)<br><br>
+<i>Commands</i> yang wajib kalian pelajari di luar kelas :<br>
+```bash
+sudo apt update
+sudo apt upgrade
+sudo apt autoremove
+sudo apt autoclean
+```
+Cara memasang perangkat perangkat lunak pada terminal :<br>
+.deb
+apt based
+url
+targz, dsb.<br><br>
 #### Soal Latihan:
 Buatlah sebuah direktori bernama "<b>Belajar Bash Dasar</b>" kemudian masuk ke dalam direktori tersebut dan buatlah sebuah skrip Bash sederhana yang dapat menampilkan sebuah keluran seperti di bawah ini:
 ```bash
