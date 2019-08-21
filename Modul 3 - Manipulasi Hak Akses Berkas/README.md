@@ -5,7 +5,7 @@
 1. <i>Owner Permission</i> : Hak akses terhadap pemilik/pembuat berkas tersebut.<br>
 2. <i>Group Permission</i> : Hak akses suatu <i>group</i> dan semua <i>user</i> didalam <i>group</i> tersebut terhadap berkas tersebut.<br>
 3. <i>Other(World) Permission</i> : Hak akses untuk semua <i>user</i> yang ada di dalam sistem tersebut(baik <i>owner</i>, <i>group</i> dan <i>user</i> lain yang ada dalam sistem) terhadap <i>file</i> tersebut.</p>
-Untuk  melihat  file  permission  kamu  bisa  menggunakan  perintah $  ls -ldan hasilnya akan terlihat seperti dibawah ini :<br><br>
+Untuk  melihat  file  permission  kamu  bisa  menggunakan  perintah ```bash $  ls -l``` dan hasilnya akan terlihat seperti dibawah ini :<br><br>
 <p align=center>
 <img src="https://i.imgur.com/PGMs9Tz.jpg">
 </p>
@@ -13,6 +13,6 @@ Untuk  melihat  file  permission  kamu  bisa  menggunakan  perintah $  ls -ldan 
 Digit pertama mewakili permission untuk owner,digit kedua mewakili permission untukgroupdan  digit  ketiga  mewakili  permission  untuk other(world).Adapun  nilai dari masing-masing attribut permission (rwx) adalah :r= 4 (read /dibolehkan membaca file)w=2 (write /dibolehkan mengedit-delete file)x=1 (executable /dibolehkan mengeksekusi file untuk file binary)t=1 (adalah permission untuk mengeset  sticky bit dan diletakan di digitpertama misal 1640)s=4 (SUID attribut,agar aplikasi menggunakan user owner berikut permissionnya ketika dijalankan oleh user lain)g=2 (SGID attribut,agar aplikasi menggunakan group owner berikutpermission nya ketika dijalankan oleh user lain)Secara  default  owner/kepemilikan  dari  sebuah  file  adalah  user  dan  group  dari pembuat file tersebut, namun adakalanya kita perlu meyesuaikan kepemilikan/ownner dari  sebuah  file  untuk  kepentingan  konfigurasi  lebih  lanjut,misalnya  sharing  file dengan user lain atau saat penginstallan aplikasi /service.Sebagai  contoh  jika  kita  membuat  file  dengan  nama jajalmenggunaan  user masarie(masarie berada di group users) maka hak akses/permision untuk file yang baru kita buat dengan user tersebut akan terlihat seperti dibawah ini :[masarie@SparkFly ~]$ touch jajal[masarie@SparkFly ~]$ ls -l jajal -rw-r--r--1 masarie users 0 Jul 11 14:25jajal[masarie@SparkFly ~]$
 12Pada  contoh  diatas  kepemilikan/owner  dari  file  tersebut  adalah  user masarie(permision read-write)dan permision untuk group dan world adalah read-only(r).<br><br>
 <strong>Soal Latihan:</strong><br>
-Buat dua <i>user</i> pada sistem operasi anda kemudian buatlah sebuah berkas <b>.txt</b> dari <i>user</i> pertama. Dengan ketentuan :<br>
+Buat dua <i>user</i> pada sistem operasi anda kemudian buatlah sebuah berkas <b>.txt</b> dari <i>user</i> pertama, dengan ketentuan :<br>
 1. Berkas <b>.txt</b> bisa dibaca dan di-<i>edit</i> oleh <i>user</i> pertama.<br>
 2. <i>User</i> kedua hanya bisa membaca berkas tersebut.
