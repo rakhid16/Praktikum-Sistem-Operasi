@@ -31,6 +31,9 @@ whatis<br>
 locate<br>
 find<br>
 ping<br>
+poweroff<br>
+reboot<br>
+systemctl suspend<br>
 wget<br>
 curl<br><br>
 
