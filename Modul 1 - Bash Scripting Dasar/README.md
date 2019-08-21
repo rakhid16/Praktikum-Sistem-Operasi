@@ -42,10 +42,10 @@ sudo apt autoremove
 sudo apt autoclean
 ```
 Cara memasang perangkat perangkat lunak pada terminal :<br>
-.deb
-apt based
-url
-targz, dsb.<br><br>
+.deb<br>
+apt based<br>
+url<br>
+targz, dsb.
 #### Soal Latihan:
 Buatlah sebuah direktori bernama "<b>Belajar Bash Dasar</b>" kemudian masuk ke dalam direktori tersebut dan buatlah sebuah skrip Bash sederhana yang dapat menampilkan sebuah keluran seperti di bawah ini:
 ```bash
