@@ -1,7 +1,7 @@
 <p align="right">
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
-<p align=justify>Setiap file pada linux mempunyai attribute yang menjelaskan hak akses user dan group terhadap file tersebut,yaituhak akses untuk owner/user(pemilik file atau yang membuat  file),group  (grup  yang  berisi  user  tertentu), dan  other/world  (semua  user dan grup/umum).</p><br>
+<p align=justify>&emsp;&emsp;&emsp;Setiap berkas pada sistem operasi berbasis Linux mempunyai atribut yang menjelaskan hak akses <i>user</i> dan <i>group</i> terhadap berkas tersebut, yaitu hak akses untuk <i>owner</i>/<i>user</i>(pemilik berkas atau yang membuat berkas), <i>group</i>(grup yang berisi <i>user</i> tertentu), dan <i>other</i>(semua <i>user</i> dan grup).</p><br>
 
 Hak akses pada linux sama dengan di windows yaitu hak akses untuk Membaca (Read),Memodifikasi (Write),dan Mengeksekusi/menjalankan file aplikasi(eXecutable) atau yang lebih populer disebut R-W-X.Pada Unix Like OS (termasuk Linux dan MacOS) setiap file mempunyai 3 atribut yang menerangkan akan hak akses ke file tersebut yaitu :a.Owner Permission: Hak  akses/permission  terhadap  pemilik/pembuat file tersebut.b.Group Permission: Hak  akses/permission  suatu  group  dan  semua user didalam group tersebut terhadap file tersebut.c.Other (World) Permission: Hak akses untuk semua user yang ada di dalam sistem  tersebut  (baik  owner,group  dan  user  lain  yang  ada  dalam  sistem) terhadap file tersebut.
 
