@@ -5,7 +5,7 @@
 1. <i>Owner Permission</i> : Hak akses terhadap pemilik/pembuat berkas tersebut.<br>
 2. <i>Group Permission</i> : Hak akses suatu <i>group</i> dan semua <i>user</i> didalam <i>group</i> tersebut terhadap berkas tersebut.<br>
 3. <i>Other(World) Permission</i> : Hak akses untuk semua <i>user</i> yang ada di dalam sistem tersebut(baik <i>owner</i>, <i>group</i> dan <i>user</i> lain yang ada dalam sistem) terhadap <i>file</i> tersebut.</p>
-Untuk  melihat  file  permission  kamu  bisa  menggunakan  perintah $  ls -ldan hasilnya akan terlihat seperti dibawah ini :
+Untuk  melihat  file  permission  kamu  bisa  menggunakan  perintah $  ls -ldan hasilnya akan terlihat seperti dibawah ini :<br>
 <p align=center>
 <img src="https://i.imgur.com/PGMs9Tz.jpg">
 </p>
