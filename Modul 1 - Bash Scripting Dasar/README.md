@@ -47,9 +47,8 @@ apt based<br>
 url<br>
 targz, dsb.
 #### Soal Latihan:
-Buatlah sebuah direktori bernama "<b>Belajar Bash Dasar</b>" kemudian masuk ke dalam direktori tersebut dan buatlah sebuah skrip Bash sederhana yang dapat menampilkan sebuah keluran seperti di bawah ini:
+Dengan menggunakan Terminal, buatlah sebuah direktori bernama "<b>Belajar Bash Dasar</b>" kemudian masuk ke dalam direktori tersebut dan buatlah sebuah skrip Bash sederhana yang dapat menampilkan sebuah keluran seperti di bawah ini:
 ```bash
 Halo dunia!
 Ini adalah skrip Bash pertamaku di Linux!
 ```
-Batasan : Hanya menggunakan Terminal
