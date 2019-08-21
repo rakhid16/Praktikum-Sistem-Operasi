@@ -20,5 +20,5 @@
 
 <i>Postscript</i>: Soal praktikum/latihan akan diberikan di kelas.<br><br>
 Referensi :<br>
-1 Modul Praktikum Sistem Operasi Teknik Informatika UPNVJT 2019<br>
+1 Modul Praktikum Sistem Operasi Teknik Informatika UPNVJT 2018<br>
 2 https://drive.google.com/open?id=1eVejdSRRr1fdhLGBtxvZ6EoAH7rkfMuc
