@@ -46,3 +46,27 @@ selain menggunakan output "echo", output bisa juga dilakukan dengan menggunakan 
 
 ##### aaa
 
+# Cara penggunaan github
+Cara penggunaan github untuk berkolaborasi mengelola pekerjaan
+
+1. [Untuk Kontributor](#untuk-kontributor)
+
+2. [Untuk non Kontributor](#untuk-non-kontributor)
+
+3. [Menggabungkan Dua Repository](#menggabungkan-dua-repository)
+
+3.1. [Menggunakan Version](#menggunakan-version)
+
+3.2. [Menggunakan Upstream](#menggunakan-upstream)
+
+4. [Menggabungkan Dua Branch](#menggabungkan-dua-branch)
+
+
+## Untuk Kontributor
+### 1. git clone
+
+Perintah "**git clone**" digunakan untuk mengunduh code yang ada pada repository.
+
+**git clone < repository yang akan di gunakan >**
+
+
