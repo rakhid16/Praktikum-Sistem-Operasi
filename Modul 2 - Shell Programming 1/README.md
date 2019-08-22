@@ -1,7 +1,7 @@
 tipe data, input/output & percabangan
 
 <p align="center"><img src="https://i.imgur.com/Pc85SYF.jpg" width=400 height=300></p>
-<p align=justify>&emsp;&emsp;&emsp;<b>Apa itu Shell?</b> Shell scripting merupakan bahasa pemrograman yang disusun berdasarkan perintah-perintah shell. untuk shell sendiri mempunyai banyak macam antara lain :</p>
+<p align=justify>&emsp;&emsp;&emsp;<b>Apa itu Pemrograman Shell?</b> Pemrograman Shell atau disebut Shell Scripting ialah menyusun beberapa perintah shell (internal maupun eksternal) menjadi serangkaian perintah untuk melakukan tugas tertentu. Shell sendiri mempunyai beberapa macam antara lain :</p>
 
 - Bourne shell(sh),
 - C shell(csh),
@@ -10,6 +10,18 @@ tipe data, input/output & percabangan
 - dsb.
 
 <p align=justify>&emsp;&emsp;&emsp;Masing - masing shell mempunyai kelebihan dan kekurangan yang mungkin lebih didasarkan pada kebutuhan pemakai yang makin hari makin meningkat.</p>
+
+<p><b>Variabel</b></p>
+<p>Beberapa hal yang perlu diperhatikan dalam mendefinisikan variabel:</p>
+
+- Angka (0-9)
+- Huruf (a-z dan A-Z)
+- Karakter underscore (_)
+- Nama variabel tidak boleh dimulai dengan angka 
+- Tidak boleh menggunakan karakter spesial seperti !, *, $, #, -, dll karena karakter tersebut punya makna khusus untuk shell
+- Bersifat case sensitive (membedakan huruf besar dan kecil)
+- Pemberian nilai variable tidak boleh dipisahkan dengan spasi, karena shell akan menganggap pemisahan tersebut sebagai parameter
+
 <p align=justify>&emsp;&emsp;&emsp;Beberapa tipe data di pemrograman shell antara lain :</p>
 
 - String
