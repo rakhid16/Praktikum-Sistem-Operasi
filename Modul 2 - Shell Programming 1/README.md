@@ -1,7 +1,14 @@
 tipe data, input/output & percabangan
 
+# Cara penggunaan github
+Cara penggunaan github untuk berkolaborasi mengelola pekerjaan
+
+1. [Untuk Kontributor](#untuk-kontributor)
+
 <p align="center"><img src="https://i.imgur.com/Pc85SYF.jpg" width=400 height=300></p>
-<p align=justify>&emsp;&emsp;&emsp;<b>Apa itu Pemrograman Shell?</b> Pemrograman Shell atau disebut Shell Scripting ialah menyusun beberapa perintah shell (internal maupun eksternal) menjadi serangkaian perintah untuk melakukan tugas tertentu. Shell sendiri mempunyai beberapa macam antara lain :</p>
+
+## Apa itu Pemrograman Shell?
+<p align=justify>&emsp;&emsp;&emsp;Pemrograman Shell atau disebut Shell Scripting ialah menyusun beberapa perintah shell (internal maupun eksternal) menjadi serangkaian perintah untuk melakukan tugas tertentu. Shell sendiri mempunyai beberapa macam antara lain :</p>
 
 - Bourne shell(sh),
 - C shell(csh),
