@@ -21,4 +21,5 @@ tipe data, input/output & percabangan
 <p align="center"><img src="https://i.imgur.com/LaMFtno.jpg" width=400 height=300></p>
 <p align=justify>&emsp;&emsp;&emsp;Contoh penggunaan integer :
 <p align="center"><img src="https://i.imgur.com/PDAHr6c.jpg" width=400 height=300></p>
+*let = digunakan untuk melakukan operasi perhitugan aritmatika
 
