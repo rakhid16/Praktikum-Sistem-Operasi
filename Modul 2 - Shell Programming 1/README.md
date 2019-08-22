@@ -1,6 +1,6 @@
 tipe data, input/output & percabangan
 
-<img src="https://i.imgur.com/Pc85SYF.jpg" width=400 height=200>
+<p align="center"><img src="https://i.imgur.com/Pc85SYF.jpg" width=400 height=200>
 Shell scripting merupakan bahasa pemrograman yang disusun berdasarkan perintah-perintah shell. untuk shell sendiri mempunyai banyak macam antara lain :
 
 Bourne shell(sh),
