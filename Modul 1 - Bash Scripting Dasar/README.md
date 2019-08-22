@@ -3,8 +3,9 @@
 </p>
 <p align=justify>&emsp;&emsp;&emsp;Bash merupakan penerjemah perintah yang berjalan pada konsol/<i>command line intrepeter</i> di mana si pengguna dapat memberi perintah(<i>command(s)</i>) yang dapat mengakibatkan sesuatu dalam sebuah sistem operasi berubah. Bash juga dapat membaca perintah dari berkas yang disebut skrip. Soal penamaan, Bash adalah singkatan dari <b>Bourne Again Shell</b>. Bash merupakan versi baru dari <b>Bourne Shell</b> yang dikembangkan oleh Steve Bourne. Pemrograman Bash-Shell itu sendiri adalah pengeksekusian kumpulan perintah menggunakan skrip yang ditulis ke dalam bahasa Shell, sehingga dapat dieksekusi oleh sistem operasi. Pada Linux sendiri, penggunaan Bash ini dijalankan melalui Terminal. Terminal adalah sebuah program semacam <i>Command Prompt</i> pada Windows. Berikut adalah perintah dasar dari Bash yang wajib kalian ketahui:</p>
 
-pwd<br>
+<strong>pwd</strong><br>
 <img src="https://i.imgur.com/gD1p5AB.jpg">
+<strong>pwd</strong> merupakan singkatan dari <i>parent working directory</i>. Apabila perintah ini dijalankan maka yang akan keluar adalah direktori yang <i>user</i> akses/gunakan.<br> 
 ls<br>
 <img src="https://i.imgur.com/tZ0tfy3.jpg">
 <img src="https://i.imgur.com/fdbgNRU.jpg">
