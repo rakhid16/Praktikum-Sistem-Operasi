@@ -19,4 +19,6 @@ tipe data, input/output & percabangan
 - dsb.
 <p align=justify>&emsp;&emsp;&emsp;Contoh penggunaan string (single-quoted) & (double-quoted) :
 <p align="center"><img src="https://i.imgur.com/LaMFtno.jpg" width=400 height=300></p>
+<p align=justify>&emsp;&emsp;&emsp;Contoh penggunaan integer :
+<p align="center"><img src="https://i.imgur.com/PDAHr6c.jpg" width=400 height=300></p>
 
