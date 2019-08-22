@@ -80,12 +80,14 @@ Digunakan untuk mendapatkan direktori utama yang menyimpan berkas-berkas suatu p
 
 <strong>whatis</strong><br>
 <img src="https://i.imgur.com/ECiZDgB.jpg">
+Digunakan untuk mendapatkan definisi dari sebuah perangkat lunak.
 
 <strong>locate</strong> & <strong>find</strong><br>
 <img src="https://i.imgur.com/U1q8HEX.jpg">
 
 <strong>ping</strong><br>
 <img src="https://i.imgur.com/U5qZttP.jpg">
+Digunakan untuk mengecek koneksi internet dengan sebuah alamat IP, website dan sebagainya.
 
 <strong>poweroff</strong>, untuk <i>shutdown</i> sistem operasi<br>
 <strong>reboot</strong>, untuk me-<i>restart</i> sistem operasi<br>
