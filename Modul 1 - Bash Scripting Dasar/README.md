@@ -34,7 +34,7 @@ systemctl suspend<br>
 wget<br>
 curl<br><br>
 
-<i>Commands</i> yang wajib kalian pelajari di luar kelas :<br>
+<i>Commands</i> agar sistem operasi kalian selalu terperbarui :<br>
 ```bash
 sudo apt update
 sudo apt upgrade
