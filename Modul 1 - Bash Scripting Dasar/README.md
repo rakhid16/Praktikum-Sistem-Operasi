@@ -11,43 +11,62 @@ Apabila perintah ini dijalankan maka yang akan keluar adalah direktori yang <i>u
 ls<br>
 <img src="https://i.imgur.com/tZ0tfy3.jpg">
 <img src="https://i.imgur.com/fdbgNRU.jpg">
+
 cd<br>
 <img src="https://i.imgur.com/qpsMMXl.jpg">
+
 cat(alternatif lain adalah more dan less)<br>
 <img src="https://i.imgur.com/NmvXtbW.jpg">
+
 nano<br>
 <img src="https://i.imgur.com/kxKpeOc.jpg">
+
 mkdir<br>
 <img src="https://i.imgur.com/31GqdYN.jpg">
+
 rm<br>
 <img src="https://i.imgur.com/lKqlFlA.jpg">
+
 rmdir<br>
 <img src="https://i.imgur.com/iZZSk6J.jpg">
 <img src="https://i.imgur.com/1lm23Mx.jpg">
+
 mv<br>
 <img src="https://i.imgur.com/QhszljR.jpg">
+
 cp<br>
 <img src="https://i.imgur.com/MkFlgju.jpg">
+
 df<br>
 <img src="https://i.imgur.com/7vAOTk0.jpg">
+
 top<br>
 <img src="https://i.imgur.com/Hisy2iL.jpg">
+
 free<br>
 <img src="https://i.imgur.com/U1atX7t.jpg">
+
 python<br>
 <img src="https://i.imgur.com/MvFLai5.jpg">
+
 version<br>
 <img src="https://i.imgur.com/aVH4kFt.jpg">
+
 whereis<br>
 <img src="https://i.imgur.com/1f9urIx.jpg">
+
 which<br>
 <img src="https://i.imgur.com/WvLDD4t.jpg">
+
 whatis<br>
 <img src="https://i.imgur.com/ECiZDgB.jpg">
+
 locate & find<br>
 <img src="https://i.imgur.com/U1q8HEX.jpg">
+
 ping<br>
 <img src="https://i.imgur.com/U5qZttP.jpg">
+
 poweroff, untuk <i>shutdown</i> sistem operasi<br>
 reboot, untuk me-<i>restart</i> sistem operasi<br>
 systemctl suspend, untuk masuk ke dalam mode <i>sleep</i><br>
