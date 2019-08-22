@@ -8,68 +8,70 @@
 <strong>pwd</strong> merupakan singkatan dari <i>parent working directory</i>.<br>
 Apabila perintah ini dijalankan maka yang akan keluar adalah direktori yang <i>user</i> akses/gunakan.<br>
 
-ls<br>
+<strong>ls</strong><br>
 <img src="https://i.imgur.com/tZ0tfy3.jpg">
+<strong>ls</strong> digunakan untuk melihat isi dari sebuah direktori.<br>
+Tambahkan <strong>-l</strong> untuk mengetahui hak akses beserta waktu terakhir dari sebuah berkas/direktori diubah.
 <img src="https://i.imgur.com/fdbgNRU.jpg">
 
-cd<br>
+<strong>cd</strong><br>
 <img src="https://i.imgur.com/qpsMMXl.jpg">
 
-cat(alternatif lain adalah more dan less)<br>
+<strong>cat</strong>(alternatif lain adalah <strong>more</strong> dan <strong>less</strong>)<br>
 <img src="https://i.imgur.com/NmvXtbW.jpg">
 
-nano<br>
+<strong>nano</strong><br>
 <img src="https://i.imgur.com/kxKpeOc.jpg">
 
-mkdir<br>
+<strong>mkdir</strong><br>
 <img src="https://i.imgur.com/31GqdYN.jpg">
 
-rm<br>
+<strong>rm</strong><br>
 <img src="https://i.imgur.com/lKqlFlA.jpg">
 
-rmdir<br>
+<strong>rmdir</strong><br>
 <img src="https://i.imgur.com/iZZSk6J.jpg">
 <img src="https://i.imgur.com/1lm23Mx.jpg">
 
-mv<br>
+<strong>mv</strong><br>
 <img src="https://i.imgur.com/QhszljR.jpg">
 
-cp<br>
+<strong>cp</strong><br>
 <img src="https://i.imgur.com/MkFlgju.jpg">
 
-df<br>
+<strong>df</strong><br>
 <img src="https://i.imgur.com/7vAOTk0.jpg">
 
-top<br>
+<strong>top</strong><br>
 <img src="https://i.imgur.com/Hisy2iL.jpg">
 
-free<br>
+<strong>free</strong><br>
 <img src="https://i.imgur.com/U1atX7t.jpg">
 
-python<br>
+<strong>python</strong><br>
 <img src="https://i.imgur.com/MvFLai5.jpg">
 
-version<br>
+<strong>version</strong><br>
 <img src="https://i.imgur.com/aVH4kFt.jpg">
 
-whereis<br>
+<strong>whereis</strong><br>
 <img src="https://i.imgur.com/1f9urIx.jpg">
 
-which<br>
+<strong>which</strong><br>
 <img src="https://i.imgur.com/WvLDD4t.jpg">
 
-whatis<br>
+<strong>whatis</strong><br>
 <img src="https://i.imgur.com/ECiZDgB.jpg">
 
-locate & find<br>
+<strong>locate</strong> & <strong>find</strong><br>
 <img src="https://i.imgur.com/U1q8HEX.jpg">
 
-ping<br>
+<strong>ping</strong><br>
 <img src="https://i.imgur.com/U5qZttP.jpg">
 
-poweroff, untuk <i>shutdown</i> sistem operasi<br>
-reboot, untuk me-<i>restart</i> sistem operasi<br>
-systemctl suspend, untuk masuk ke dalam mode <i>sleep</i><br>
+<strong>poweroff</strong>, untuk <i>shutdown</i> sistem operasi<br>
+<strong>reboot</strong>, untuk me-<i>restart</i> sistem operasi<br>
+<strong>systemctl suspend</strong>, untuk masuk ke dalam mode <i>sleep</i><br>
 
 <i>Commands</i> agar sistem operasi kalian selalu terperbarui :<br>
 ```bash
