@@ -12,7 +12,7 @@ tipe data, input/output & percabangan
 <p align=justify>&emsp;&emsp;&emsp;Masing - masing shell mempunyai kelebihan dan kekurangan yang mungkin lebih didasarkan pada kebutuhan pemakai yang makin hari makin meningkat.</p>
 
 <p><b>Variabel</b></p>
-<p>Beberapa hal yang perlu diperhatikan dalam mendefinisikan variabel:</p>
+<p align=justify>Beberapa hal yang perlu diperhatikan dalam mendefinisikan variabel:</p>
 
 - Angka (0-9)
 - Huruf (a-z dan A-Z)
@@ -22,7 +22,7 @@ tipe data, input/output & percabangan
 - Bersifat case sensitive (membedakan huruf besar dan kecil)
 - Pemberian nilai variable tidak boleh dipisahkan dengan spasi, karena shell akan menganggap pemisahan tersebut sebagai parameter
 
-<p align=justify>&emsp;&emsp;&emsp;Beberapa tipe data di pemrograman shell antara lain :</p>
+<p align=justify>Beberapa tipe data di pemrograman shell antara lain :</p>
 
 - String
 - Integer
@@ -43,4 +43,6 @@ tipe data, input/output & percabangan
 <b>Output pada shell</b>
 selain menggunakan output "echo", output bisa juga dilakukan dengan menggunakan printf seperti pada bahasa pemrograman C.
 
+
+##### aaa
 
