@@ -86,7 +86,7 @@ Digunakan untuk mendapatkan definisi dari sebuah perangkat lunak.
 <strong>locate</strong> & <strong>find</strong><br>
 <img src="https://i.imgur.com/U1q8HEX.jpg">
 Sama-sama digunakan untuk mencari berkas.<br>
-<b>locate</b>lebih cepat dibanding<b>find</b> karena <b>locate</b> mencari pada <i>prebuilt database</i> sedangkan <b>find</b> mencari berkas secara keseluruhan.
+<b>locate</b> lebih cepat dibanding <b>find</b> karena <b>locate</b> mencari pada <i>prebuilt database</i> sedangkan <b>find</b> mencari berkas secara keseluruhan.
 
 <strong>ping</strong><br>
 <img src="https://i.imgur.com/U5qZttP.jpg">
