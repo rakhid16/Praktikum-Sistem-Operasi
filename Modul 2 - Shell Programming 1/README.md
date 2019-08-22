@@ -22,4 +22,6 @@ tipe data, input/output & percabangan
 <p align=justify>&emsp;&emsp;&emsp;Contoh penggunaan integer :
 <p align="center"><img src="https://i.imgur.com/PDAHr6c.jpg" width=400 height=300></p>
 *let = digunakan untuk melakukan operasi perhitugan aritmatika
+<p align=justify>&emsp;&emsp;&emsp;Contoh penggunaan integer :
+<p align="center"><img src="https://i.imgur.com/AFJVtU2.jpg" width=400 height=300></p>
 
