@@ -5,7 +5,9 @@
 
 <strong>pwd</strong><br>
 <img src="https://i.imgur.com/gD1p5AB.jpg">
-<strong>pwd</strong> merupakan singkatan dari <i>parent working directory</i>. Apabila perintah ini dijalankan maka yang akan keluar adalah direktori yang <i>user</i> akses/gunakan.<br> 
+<strong>pwd</strong> merupakan singkatan dari <i>parent working directory</i>.<br>
+Apabila perintah ini dijalankan maka yang akan keluar adalah direktori yang <i>user</i> akses/gunakan.<br>
+
 ls<br>
 <img src="https://i.imgur.com/tZ0tfy3.jpg">
 <img src="https://i.imgur.com/fdbgNRU.jpg">
