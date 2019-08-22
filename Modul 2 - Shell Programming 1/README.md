@@ -17,11 +17,11 @@ tipe data, input/output & percabangan
 - Array
 - Konstanta
 - dsb.
-<p align=justify>&emsp;&emsp;&emsp;Contoh penggunaan String (single-quoted) & (double-quoted) :
+<p align=justify>&emsp;&emsp;&emsp;###Contoh penggunaan String (single-quoted) & (double-quoted) :
 <p align="center"><img src="https://i.imgur.com/LaMFtno.jpg" width=400 height=300></p>
-<p align=justify>&emsp;&emsp;&emsp;Contoh penggunaan Integer :
+<p align=justify>&emsp;&emsp;&emsp;###Contoh penggunaan Integer :
 <p align="center"><img src="https://i.imgur.com/PDAHr6c.jpg" width=400 height=300></p>
 <p style=font-size="2px">*let = digunakan untuk melakukan operasi perhitugan aritmatika</p>
-<p align=justify>&emsp;&emsp;&emsp;Contoh penggunaan Array :
+<p align=justify>&emsp;&emsp;&emsp;###Contoh penggunaan Array :
 <p align="center"><img src="https://i.imgur.com/AFJVtU2.jpg" width=400 height=300></p>
 
