@@ -10,7 +10,7 @@ tipe data, input/output & percabangan
 - dsb.
 
 <p align=justify>&emsp;&emsp;&emsp;Masing - masing shell mempunyai kelebihan dan kekurangan yang mungkin lebih didasarkan pada kebutuhan pemakai yang makin hari makin meningkat.</p>
-<p align=justify>&emsp;&emsp;&emsp;Pemrograman shell mempunyai banyak tipe data :</p>
+<p align=justify>&emsp;&emsp;&emsp;Beberapa tipe data di pemrograman shell antara lain :</p>
 
 - String
 - Integer
