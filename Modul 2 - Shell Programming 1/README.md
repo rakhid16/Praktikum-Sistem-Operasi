@@ -1,10 +1,5 @@
 tipe data, input/output & percabangan
 
-# Cara penggunaan github
-Cara penggunaan github untuk berkolaborasi mengelola pekerjaan
-
-1. [Untuk Kontributor](#untuk-kontributor)
-
 <p align="center"><img src="https://i.imgur.com/Pc85SYF.jpg" width=400 height=300></p>
 
 ## Apa itu Pemrograman Shell?
@@ -18,7 +13,7 @@ Cara penggunaan github untuk berkolaborasi mengelola pekerjaan
 
 <p align=justify>&emsp;&emsp;&emsp;Masing - masing shell mempunyai kelebihan dan kekurangan yang mungkin lebih didasarkan pada kebutuhan pemakai yang makin hari makin meningkat.</p>
 
-<p><b>Variabel</b></p>
+## Variabel
 <p align=justify>Beberapa hal yang perlu diperhatikan dalam mendefinisikan variabel:</p>
 
 - Angka (0-9)
@@ -29,6 +24,7 @@ Cara penggunaan github untuk berkolaborasi mengelola pekerjaan
 - Bersifat case sensitive (membedakan huruf besar dan kecil)
 - Pemberian nilai variable tidak boleh dipisahkan dengan spasi, karena shell akan menganggap pemisahan tersebut sebagai parameter
 
+## Tipe Data
 <p align=justify>Beberapa tipe data di pemrograman shell antara lain :</p>
 
 - String
