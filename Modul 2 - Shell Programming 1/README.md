@@ -17,5 +17,6 @@ tipe data, input/output & percabangan
 - Array
 - Konstanta
 - dsb.
-Contoh penggunaan string (single-quoted) & (double-quoted) :
+<p align=justify>&emsp;&emsp;&emsp;Contoh penggunaan string (single-quoted) & (double-quoted) :
+<p align="center"><img src="https://i.imgur.com/LaMFtno.jpg" width=400 height=300></p>
 
