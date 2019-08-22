@@ -10,6 +10,8 @@ tipe data, input/output & percabangan
 
 <p align=justify>&emsp;&emsp;&emsp;Masing - masing shell mempunyai kelebihan dan kekurangan yang mungkin lebih didasarkan pada kebutuhan pemakai yang makin hari makin meningkat.</p>
 <p align=justify>&emsp;&emsp;&emsp;Pemrograman shell mempunyai banyak tipe data :</p>
+
+- [Tutorial Git 01 - Instalasi Git dan Persiapan Awal](https://www.petanikode.com/git-install/)
 - String
 - Integer
 - Array
