@@ -17,7 +17,7 @@ Tambahkan <strong>-l</strong> untuk mengetahui hak akses beserta waktu terakhir 
 <strong>cd</strong><br>
 <img src="https://i.imgur.com/qpsMMXl.jpg">
 <strong>cd</strong> merupakan singkatan dari <i>change directory</i>.<br>
-Perintah ini digunakan untuk berpindah direktori dari satu direktori ke direktori yang lain
+Perintah ini digunakan untuk berpindah direktori dari satu direktori ke direktori yang lain.
 
 <strong>cat</strong>(alternatif lain adalah <strong>more</strong> dan <strong>less</strong>)<br>
 <img src="https://i.imgur.com/NmvXtbW.jpg">
@@ -33,38 +33,39 @@ Perintah tersebut digunakan untuk melihat isi dari suatu berkas.
 
 <strong>rm</strong><br>
 <img src="https://i.imgur.com/lKqlFlA.jpg">
-Perintah di atas digunakan untuk menghapus sebuah berkas
+Perintah di atas digunakan untuk menghapus sebuah berkas.
 
 <strong>rmdir</strong><br>
 <img src="https://i.imgur.com/iZZSk6J.jpg">
 <strong>rmdir</strong> digunakan untuk menghapus sebuah direktori.
 <img src="https://i.imgur.com/1lm23Mx.jpg">
-Apabila direktori tersebut tidak kosong maka perintah yang dapat digunakan adalah <storng>rm -rf nama_direktori</strong>.<br>
-<b>r</b> untuk <i>recursive</i> dan <b>f</b> untuk <b>force</b>.
+Apabila direktori tersebut tidak kosong maka perintah yang dapat digunakan adalah <strong>rm -rf nama_direktori</strong>.<br>
+<b>r</b> untuk <i>recursive</i> dan <b>f</b> untuk <i>force</i>.
 
 <strong>mv</strong><br>
 <img src="https://i.imgur.com/QhszljR.jpg">
-Digunakan untuk memindahkan suatu berkas(<i>cut-paste</i>)
+Digunakan untuk memindahkan suatu berkas(<i>cut-paste</i>).
 
 <strong>cp</strong><br>
 <img src="https://i.imgur.com/MkFlgju.jpg">
-Digunakan untuk menyalin suatu berkas(<i>copy-paste</i>)
+Digunakan untuk menyalin suatu berkas(<i>copy-paste</i>).
 
 <strong>df</strong><br>
 <img src="https://i.imgur.com/7vAOTk0.jpg">
 <strong>df</strong> singkatan dari <i>disk free</i>.<br>
-Digunakan untuk melihat ruangan tersisa dari partisi yang ter-<i>mount</i>
+Digunakan untuk melihat ruangan tersisa dari partisi yang ter-<i>mount</i>.
 
 <strong>top</strong><br>
 <img src="https://i.imgur.com/Hisy2iL.jpg">
+Menunjukan informasi mengenai proses-proses dan <i>threads</i> yang sedang dijalankan oleh kernel Linux.
 
 <strong>free</strong><br>
 <img src="https://i.imgur.com/U1atX7t.jpg">
-Digunakan untuk mengetahui sumber daya RAM yang terpakai atau tidak
+Digunakan untuk mengetahui sumber daya RAM yang terpakai atau tidak.
 
 <strong>python</strong><br>
 <img src="https://i.imgur.com/MvFLai5.jpg">
-Digunakan untuk menjalankan <i>Python Interpreter</i>
+Digunakan untuk menjalankan <i>Python Interpreter</i>.
 
 <strong>version</strong><br>
 <img src="https://i.imgur.com/aVH4kFt.jpg">
@@ -84,14 +85,16 @@ Digunakan untuk mendapatkan definisi dari sebuah perangkat lunak.
 
 <strong>locate</strong> & <strong>find</strong><br>
 <img src="https://i.imgur.com/U1q8HEX.jpg">
+Sama-sama digunakan untuk mencari berkas.<br>
+<b>locate</b>lebih cepat dibanding<b>find</b> karena <b>locate</b> mencari pada <i>prebuilt database</i> sedangkan <b>find</b> mencari berkas secara keseluruhan.
 
 <strong>ping</strong><br>
 <img src="https://i.imgur.com/U5qZttP.jpg">
 Digunakan untuk mengecek koneksi internet dengan sebuah alamat IP, website dan sebagainya.
 
-<strong>poweroff</strong>, untuk <i>shutdown</i> sistem operasi<br>
-<strong>reboot</strong>, untuk me-<i>restart</i> sistem operasi<br>
-<strong>systemctl suspend</strong>, untuk masuk ke dalam mode <i>sleep</i><br>
+<strong>poweroff</strong>, untuk <i>shutdown</i> sistem operasi.<br>
+<strong>reboot</strong>, untuk me-<i>restart</i> sistem operasi.<br>
+<strong>systemctl suspend</strong>, untuk masuk ke dalam mode <i>sleep</i>.<br>
 
 <i>Commands</i> agar sistem operasi kalian selalu terperbarui :<br>
 ```bash
@@ -100,11 +103,11 @@ sudo apt upgrade
 sudo apt autoremove
 sudo apt autoclean
 ```
-Cara memasang perangkat perangkat lunak pada terminal :<br>
-.deb<br>
-apt based<br>
-url<br>
-targz, dsb.
+Pelajari juga cara memasang perangkat lunak melalui terminal :<br>
+1 .deb<br>
+2 apt based<br>
+3 url<br>
+4 targz, dsb.
 #### Soal Latihan:
 Dengan menggunakan Terminal, buatlah sebuah direktori bernama "<b>Belajar Bash Dasar</b>" kemudian masuk ke dalam direktori tersebut dan buatlah sebuah skrip Bash sederhana yang dapat menampilkan sebuah keluran seperti di bawah ini:
 ```bash
