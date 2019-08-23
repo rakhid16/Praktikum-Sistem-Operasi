@@ -3,9 +3,10 @@ tipe data, input/output & percabangan
 <p align="center"><img src="https://i.imgur.com/Pc85SYF.jpg" width=400 height=300></p>
 
 ## Apa itu Pemrograman Shell?
-<p align=justify>&emsp;&emsp;&emsp;* Pemrograman Shell atau disebut Shell Scripting ialah menyusun beberapa perintah shell (internal maupun eksternal) menjadi serangkaian perintah untuk melakukan tugas tertentu. Shell sendiri mempunyai beberapa macam antara lain :</p>
+<p align=justify>&emsp;&emsp;&emsp;Pemrograman Shell atau disebut Shell Scripting ialah menyusun beberapa perintah shell (internal maupun eksternal) menjadi serangkaian perintah untuk melakukan tugas tertentu. </p>
 
-  ** Bourne shell(sh),
+* Shell sendiri mempunyai beberapa macam antara lain :
+  * Bourne shell(sh),
   * C shell(csh),
   * Korn shell(ksh),
   * Bourne again shell(bash),
