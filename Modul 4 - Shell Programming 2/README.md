@@ -29,13 +29,10 @@ perulangan dan case
     done
     ```  
     
-    ```
-    Output:
-
-    0
-    2
-    4
-    6
-    8
-    ```
-2.
+    * Output:
+    
+<p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
+   
+    
+    
+2. For Loop
