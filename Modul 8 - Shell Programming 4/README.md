@@ -46,17 +46,20 @@
 ```bash
   #!/bin/bash
 
-  #define functions
-  ask_name() {
+  # Mendeklarasikan fungsi
+  nama() {
     echo "Siapa namamu?"
-    reply                 #call reply function inside ask_name function
-  }
-  reply() {
     read nama
-    echo "Hai $nama, selamat datang di praktikum sistem operasi!"
+    npm                               # <------  Memanggil fungsi di dalam fungsi (fungsi bersarang)
+  }
+  npm() {
+    echo "Sebutkan npm mu"
+    read npm
+    echo -e "Hai $nama dengan npm $npm, selamat datang \n di praktikum sistem operasi yang seru ini ya!"  
   }
 
-  #call functions
-  ask_name
+  # Memanggil fungsi
+  nama
+ 
 ```
 
