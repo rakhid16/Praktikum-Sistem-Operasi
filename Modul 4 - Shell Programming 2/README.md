@@ -37,3 +37,34 @@ perulangan dan case
     
     
 2. For Loop
+* For loop digunakan untuk mengulang serangkaian perintah untuk setiap item pada daftar.
+
+   *  Syntax
+
+      ```
+      for var in daftar_item
+      do
+        perintah 
+      done
+      ```
+   *  Contoh:
+
+      ```bash
+      #!/bin/bash
+
+      for num in 1 2 3 4 5
+      do
+        echo $num
+      done
+      ```
+   *  Selain itu, bisa ditulis seperti ini:
+
+      ```bash
+      #!/bin/bash
+
+      for ((num=1; num<=5; num=num+1))
+      do
+        echo $num
+      done
+      ```
+      
