@@ -209,3 +209,5 @@ printf "%.1f float \n" $a;
        esac
 
     ```
+
+<p align="center"><img src="https://i.imgur.com/StVeBWD.jpg" width=400 height=300></p>
