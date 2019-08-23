@@ -17,7 +17,7 @@ perulangan dan case
           perintah 
        done
        ```
-       * Contoh :
+     * Contoh :
 
        ```bash
        #!/bin/bash
@@ -30,7 +30,7 @@ perulangan dan case
        done
        ```  
     
-    * Output :
+     * Output :
     
 <p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
    
@@ -40,7 +40,7 @@ perulangan dan case
    *  Syntax :
 
       ```
-      for variable in daftarItem
+      for variabel in daftarItem
       do
          perintah 
       done
@@ -75,9 +75,9 @@ perulangan dan case
       * Syntax
 
          ```
-         select var in daftar_item
+         select variabel in daftarItem
          do
-           perintah
+            perintah
          done
          ```
 
