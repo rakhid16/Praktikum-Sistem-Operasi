@@ -48,8 +48,17 @@ tipe data, input/output & percabangan
 selain menggunakan output "echo", output bisa juga dilakukan dengan menggunakan printf seperti pada bahasa pemrograman C.
 
 ```bash
-sudo apt update
-sudo apt upgrade
-sudo apt autoremove
-sudo apt autoclean
+#!/bin/bash
+
+# Inisialisasi Var 
+a=55;
+b=4;
+let c=a%b;
+distroLinux="Ubuntu 19.04 LTS";
+
+# Output Printf
+printf "OS : $distroLinux \n";
+printf "$c \n";
+printf "%.2f float \n" $a;
+printf "%.1f float \n" $a;
 ```
