@@ -53,8 +53,8 @@ selain menggunakan output "echo", output bisa juga dilakukan dengan menggunakan 
 # Inisialisasi Var 
 a=55;
 b=4;
-let c=a%b;
 distroLinux="Ubuntu 19.04 LTS";
+let c=a%b;
 
 # Output Printf
 printf "OS : $distroLinux \n";
