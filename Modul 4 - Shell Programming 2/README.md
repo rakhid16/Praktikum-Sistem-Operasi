@@ -11,24 +11,24 @@ perulangan dan case
     
     * Syntax :
 
-    ```
-    while kondisi
-    do
-       perintah 
-    done
-    ```
-    * Contoh :
+       ```
+       while kondisi
+       do
+          perintah 
+       done
+       ```
+       * Contoh :
 
-    ```bash
-    #!/bin/bash
-    a=0
+       ```bash
+       #!/bin/bash
+       a=0
 
-    while [ $a -lt 10 ]
-    do
-      echo $a
-      a=$((a + 2))
-    done
-    ```  
+       while [ $a -lt 10 ]
+       do
+         echo $a
+         a=$((a + 2))
+       done
+       ```  
     
     * Output :
     
