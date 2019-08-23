@@ -9,7 +9,7 @@ perulangan dan case
 1. While loop
     * While loop digunakan untuk mengeksekusi serangkaian perintah berulang kali selama suatu kondisi terpenuhi.
     
-    * Syntax
+    * Syntax :
 
     ```
     while kondisi
@@ -17,7 +17,7 @@ perulangan dan case
        perintah 
     done
     ```
-    * Contoh:
+    * Contoh :
 
     ```bash
     #!/bin/bash
@@ -30,41 +30,39 @@ perulangan dan case
     done
     ```  
     
-    * Output:
+    * Output :
     
 <p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
    
-    
-    
 2. For Loop
-* For loop digunakan untuk mengulang serangkaian perintah untuk setiap item pada daftar.
+   * For loop digunakan untuk mengulang serangkaian perintah untuk setiap item pada daftar.
 
-   *  Syntax
+   *  Syntax :
 
       ```
-      for var in daftar_item
+      for variable in daftarItem
       do
-        perintah 
+         perintah 
       done
       ```
-   *  Contoh:
+   *  Contoh :
 
       ```bash
       #!/bin/bash
 
-      for num in 1 2 3 4 5
+      for angka in 1 2 3 4 5
       do
-        echo $num
+         echo $angka
       done
       ```
-   *  Selain itu, bisa ditulis seperti ini:
+   *  Selain itu, bisa ditulis seperti ini :
 
       ```bash
       #!/bin/bash
 
-      for ((num=1; num<=5; num=num+1))
+      for ((angka=1; angka<=5; angka=angka+1))
       do
-        echo $num
+         echo $angka
       done
       ```
-      
+   *  Output :
