@@ -1,3 +1,4 @@
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ - القران الكريم
 <p align="center"><img src="https://i.imgur.com/Pc85SYF.jpg" width=400 height=300></p>
 
 ## Apa itu Pemrograman Shell?
@@ -207,7 +208,8 @@ printf "%.1f float \n" $a;
            echo "Makanan yang kamu suka gaenak hehe" 
            ;;
        esac
-
     ```
-
 <p align="center"><img src="https://i.imgur.com/StVeBWD.jpg" width=400 height=300></p>
+
+* Soal Latihan
+
