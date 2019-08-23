@@ -68,3 +68,6 @@
 
 <p align="center"><img src="https://i.imgur.com/B2tIyqN.jpg" width=400 height=300></p>
 
+## Soal Latihan
+* Buatlah program fungsi kompleks yang menerapkan beberapa konsep pemrograman bash seperti diatas !
+
