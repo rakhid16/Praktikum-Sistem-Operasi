@@ -84,6 +84,14 @@ Catatan:
 
     Jika ingin menggunakan new line character (\n) pada echo, gunakan echo -e "teks\n teks"
 
+```#!/bin/bash
+
+matakuliah="Sistem Operasi"
+
+echo "Siapa namamu?"
+read nama
+echo -e "\nHai $nama!\nSelamat datang di praktikum $matakuliah:))))"
+```
 <p align="center"><img src="https://i.imgur.com/ctO0CrW.jpg" width=400 height=300></p>
 
 * Selain menggunakan output "echo", output bisa juga dilakukan dengan menggunakan printf seperti pada bahasa pemrograman C.
