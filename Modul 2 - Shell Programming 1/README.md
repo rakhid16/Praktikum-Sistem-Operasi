@@ -123,7 +123,7 @@ printf "%.1f float \n" $a;
 <p>Sebelum melangkah ke percabangan alangkah baiknya terlebih dahulu mengetahui dasar operasi relasional yang mana biasanya digunakan bersama dengan conditional statements.</p>
 
 | No        | Operator           | Deskripsi  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-----:|
 | 1      | -eq | Memeriksa apakah nilai kedua operan sama (==)  |
 | 2      | -ne      |   Memeriksa apakah nilai kedua operan tidak sama (!=) |
 | 3 | -gt      |    Memeriksa apakah nilai operan kiri lebih besar daripada operan kanan (>) |
