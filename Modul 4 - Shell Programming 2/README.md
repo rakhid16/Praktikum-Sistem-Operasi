@@ -140,3 +140,22 @@
 ## Materi ++
 *<b> Materi Tambahan </b>
 <p><a href="https://github.com/Rakhid16/Praktikum-Sistem-Operasi/tree/master/Modul%202%20-%20Shell%20Programming%201"> Materi Tambahan Percabangan (Case ... Esac) </a></p>
+
+## Soal Latihan
+* Buatlah program perulangan yang menerapkan beberapa konsep pemrograman bash seperti diatas dengan ketentuan sbb!
+   -  user menginputkan case awal bilangan
+   -  mencetak bilangan positif kelipatan ganjil 3 5 7 9 dst
+   
+   Contoh Output :
+   
+   ```
+   Input : 15
+   
+   13
+   11
+   9
+   7
+   5
+   3
+   1
+   ```
