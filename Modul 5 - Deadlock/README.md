@@ -1,5 +1,5 @@
 <p align="right">
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
+بِسْــــــــــــــمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
 <p align=center>
 <img src="https://i.imgur.com/HsGBZos.jpg" height=400 width=300>
