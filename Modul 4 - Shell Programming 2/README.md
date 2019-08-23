@@ -69,10 +69,10 @@ perulangan dan case
    
 <p align="center"><img src="https://i.imgur.com/kCIjxy1.jpg" width=400 height=300></p>
    
-3.<b>Select Loop</b> 
-  * Select Loop digunakan ketika kita ingin membuat sebuah program dengan beberapa daftar pilihan yang bisa dipilih oleh user, misalnya daftar menu.
+3. <b>Select Loop</b> 
+      * Select Loop digunakan ketika kita ingin membuat sebuah program dengan beberapa daftar pilihan yang bisa dipilih oleh user, misalnya daftar menu.
 
-  * Syntax
+      * Syntax
 
 ```
 select var in daftar_item
@@ -80,7 +80,8 @@ do
   perintah
 done
 ```
-  * Contoh:
+
+      * Contoh
 
 ```bash
 #!/bin/bash
