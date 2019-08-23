@@ -41,8 +41,7 @@
 
 <p align="center"><img src="https://i.imgur.com/ntXtYCP.jpg" width=400 height=300></p>
 
-* Nested Function
-  <p>Fungsi Bersarang</p>
+* Nested Function (Fungsi bersarang)
   
 * Contoh :
 
