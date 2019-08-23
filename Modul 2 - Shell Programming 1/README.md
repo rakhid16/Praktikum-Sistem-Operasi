@@ -120,7 +120,7 @@ printf "%.1f float \n" $a;
 <p align="center"><img src="https://i.imgur.com/4L4PRvi.jpg" width=400 height=300></p>
 
 ## Percabangan
-* If...Else
+* If ..... Else
 
 * Syntax
 ```
