@@ -72,12 +72,12 @@ echo "Selamat datang $nama";
 
 ## Ouput
 <b>Output pada shell</b>
-<p>echo digunakan untuk menampilkan output dengan syntax sebagai berikut:</p>
+* echo digunakan untuk menampilkan output dengan syntax sebagai berikut:
 
-- Menampilkan teks biasa
+   * Menampilkan teks biasa
 `echo "teks"`
 
-- Menampilkan isi dari sebuah variabel
+   * Menampilkan isi dari sebuah variabel
 `echo $nama_var`
 
 Catatan:
@@ -85,7 +85,7 @@ Catatan:
     Jika ingin menggunakan new line character (\n) pada echo, gunakan echo -e "teks\n teks"
 
 
-<p>Selain menggunakan output "echo", output bisa juga dilakukan dengan menggunakan printf seperti pada bahasa pemrograman C.</p>
+* Selain menggunakan output "echo", output bisa juga dilakukan dengan menggunakan printf seperti pada bahasa pemrograman C.
 
 ```bash
 #!/bin/bash
