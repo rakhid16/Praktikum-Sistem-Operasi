@@ -37,12 +37,11 @@ tipe data, input/output & percabangan
 
 
 ## Tipe Data
-<p align=justify>
-- Beberapa tipe data di pemrograman shell antara lain :</p>
- - String
- - Integer
- - Array
- - dsb.
+- Beberapa tipe data di pemrograman shell antara lain :
+    - String
+    - Integer
+    - Array
+    - dsb.
 
 <p><b>Contoh penggunaan String (single-quoted) & (double-quoted) : </b></p>
 <p align="center"><img src="https://i.imgur.com/LaMFtno.jpg" width=400 height=300></p>
