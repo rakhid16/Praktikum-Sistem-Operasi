@@ -16,3 +16,22 @@
     perintahLain
   }
 ```
+
+* Contoh:
+
+  ```bash
+  #!/bin/bash
+
+  # Mendeklarasikan fungsi
+  nama() {
+    echo "Siapa namamu?"
+    read nama
+  }
+  npm() {
+    read npm
+    echo "Hai $nama dengan npm $npm, selamat datang di praktikum sistem operasi yang seru ini!"  
+  }
+
+  # Memanggil fungsi
+  nama
+  npm
