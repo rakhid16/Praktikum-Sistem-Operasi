@@ -124,22 +124,12 @@ printf "%.1f float \n" $a;
 
 | No        | Operator           | Deskripsi  |
 | ------------- |:-------------:| -----:|
-| 1      | right-aligned | $1600 |
-| 2      | centered      |   $12 |
-| 3 | are neat      |    $1 |
-| 4      | right-aligned | $1600 |
-| 5      | centered      |   $12 |
-| 6 | are neat      |    $1 |
-
-
-| No 	Operator |  Deskripsi                                                                        |
-|---|:--------:|----------------------------------------------------------------------------------:| 
-| 1 |	  -eq    |  Memeriksa apakah nilai kedua operan sama (==)                                    |
-| 2 |	  -ne    | 	Memeriksa apakah nilai kedua operan tidak sama (!=)                              |
-| 3 |	  -gt    | 	Memeriksa apakah nilai operan kiri lebih besar daripada operan kanan (>)         | 
-| 4 |	  -lt    | 	Memeriksa apakah nilai operan kiri lebih kecil daripada operan kanan (<)         |
-| 5 |	  -ge    | 	Memeriksa apakah nilai operan kiri lebih besar atau sama dengan operan kanan (>=)|
-| 6 |	  -le    | 	Memeriksa apakah nilai operan kiri lebih kecil atau sama dengan operan kanan (<=)|
+| 1      | -eq | Memeriksa apakah nilai kedua operan sama (==)  |
+| 2      | -ne      |   Memeriksa apakah nilai kedua operan tidak sama (!=) |
+| 3 | -gt      |    Memeriksa apakah nilai operan kiri lebih besar daripada operan kanan (>) |
+| 4      | -lt | Memeriksa apakah nilai operan kiri lebih kecil daripada operan kanan (<) |
+| 5      | -ge      |   Memeriksa apakah nilai operan kiri lebih besar atau sama dengan operan kanan (>=) |
+| 6 | -le      |    Memeriksa apakah nilai operan kiri lebih kecil atau sama dengan operan kanan (<=) |
 
 * If ..... Else
 
