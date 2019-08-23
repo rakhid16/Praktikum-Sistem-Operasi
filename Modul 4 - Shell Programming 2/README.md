@@ -66,3 +66,6 @@ perulangan dan case
       done
       ```
    *  Output :
+   
+<p align="center"><img src="https://i.imgur.com/kCIjxy1.jpg" width=400 height=300></p>
+   
