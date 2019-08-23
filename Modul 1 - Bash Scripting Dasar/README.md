@@ -1,3 +1,6 @@
+<p align="right">
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
+</p>
 <p align="center">
 <img src="https://i.imgur.com/mrz6KQC.jpg" width=400 height=200>
 </p>
