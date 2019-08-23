@@ -46,9 +46,10 @@ tipe data, input/output & percabangan
 ## Ouput
 <b>Output pada shell</b>
 selain menggunakan output "echo", output bisa juga dilakukan dengan menggunakan printf seperti pada bahasa pemrograman C.
-`bash
+
+```bash
 sudo apt update
 sudo apt upgrade
 sudo apt autoremove
 sudo apt autoclean
-`
+```
