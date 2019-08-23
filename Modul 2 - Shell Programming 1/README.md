@@ -38,6 +38,17 @@
 
     $nama_var
 
+## Operator Aritmatika
+| No |	Operator |	Deskripsi |
+| - | :---: | :-------- |
+| 1 |	+ |	Penjumlahan |
+| 2 |	- |	Pengurangan |
+| 3 |	* |	Perkalian |
+| 4 |	/ |	Pembagian |
+| 5 |	% |	Modulus (sisa pembagian) |
+| 6 |	= |	Menempatkan nilai di sisi kanan ke variabel di sisi kiri |
+| 7 |	== |	Membandingkan 2 nilai yang sama |
+| 8 |	!= |	Membandingkan 2 nilai yang tidak sama |
 
 ## Tipe Data
 - Beberapa tipe data di pemrograman shell antara lain :
@@ -52,18 +63,6 @@
 * <p>Contoh penggunaan Integer : </p>
 <p align="center"><img src="https://i.imgur.com/PDAHr6c.jpg" width=400 height=300></p>
 <p>Catatan : let = digunakan untuk melakukan operasi perhitugan aritmatika</p>
-
-## Operator Aritmatika
-| No |	Operator |	Deskripsi |
-| - | :---: | :-------- |
-| 1 |	+ |	Penjumlahan |
-| 2 |	- |	Pengurangan |
-| 3 |	* |	Perkalian |
-| 4 |	/ |	Pembagian |
-| 5 |	% |	Modulus (sisa pembagian) |
-| 6 |	= |	Menempatkan nilai di sisi kanan ke variabel di sisi kiri |
-| 7 |	== |	Membandingkan 2 nilai yang sama |
-| 8 |	!= |	Membandingkan 2 nilai yang tidak sama |
 
 * <p>Contoh penggunaan Array : </p>
 <p align="center"><img src="https://i.imgur.com/AFJVtU2.jpg" width=400 height=300>
