@@ -167,3 +167,42 @@ printf "%.1f float \n" $a;
 ```
 <p align="center"><img src="https://i.imgur.com/Ta54NQq.jpg" width=400 height=300></p>
 
+* Case .... Esac
+
+    * Syntax
+
+    ```case var in
+      pola1)
+        perintah1 
+        ;;
+      pola2)
+        perintah2 
+        ;;
+      *)
+        alternatif_perintah
+        ;;
+    esac
+    ```
+* Contoh:
+
+    ```Bash
+    #!/bin/bash
+
+    echo -n "Apa makanan yang kamu suka?"
+    read makanan
+
+    case "$makanan" in
+      "pentol") 
+        echo "Pentol raja depan wardug the best!" 
+        ;;
+      "pisang")
+        echo "Pocky rasa pisang enak bed" 
+        ;;
+      "indomie")
+        echo "Indomie telor unch" 
+        ;;
+      *)
+        echo "Makanan yang kamu suka gaenak hehe" 
+        ;;
+    esac
+    ```
