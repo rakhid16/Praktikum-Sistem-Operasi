@@ -134,3 +134,7 @@ perulangan dan case
          done
          ```
          
+      * Output
+      
+<p align="center"><img src="https://i.imgur.com/kHjZLfj.jpg" width=400 height=300></p>
+      
