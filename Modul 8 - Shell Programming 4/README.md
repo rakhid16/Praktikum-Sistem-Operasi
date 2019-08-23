@@ -2,7 +2,7 @@
 بِسْــــــــــــــمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
 
-## Fungsi
+## Function
 * Apa itu Fungsi?
 <p><b>Fungsi</b> merupakan bagian script atau program yang berisi kumpulan beberapa statement yang melaksanakan tugas tertentu. dengan subrutin kode script kita tentunya lebih sederhana dan terstruktur, karena sekali fungsi telah dibuat dan berhasil maka akan dapat digunakan kapan saja kita inginkan.</p>
 
@@ -40,3 +40,23 @@
 * Output :
 
 <p align="center"><img src="https://i.imgur.com/ntXtYCP.jpg" width=400 height=300></p>
+
+* Nested Function
+
+```bash
+  #!/bin/bash
+
+  #define functions
+  ask_name() {
+    echo "Siapa namamu?"
+    reply                 #call reply function inside ask_name function
+  }
+  reply() {
+    read nama
+    echo "Hai $nama, selamat datang di praktikum sistem operasi!"
+  }
+
+  #call functions
+  ask_name
+```
+
