@@ -24,12 +24,12 @@
 
   # Mendeklarasikan fungsi
   nama() {
-    echo "Siapa namamu?"
+    echo "Siapa namamu? dan sebutkan npm mu"
     read nama
   }
   npm() {
     read npm
-    echo "Hai $nama dengan npm $npm, selamat datang di praktikum sistem operasi yang seru ini!"  
+    echo "Hai $nama dengan npm $npm, selamat datang \n di praktikum sistem operasi \n yang seru ini ya!"  
   }
 
   # Memanggil fungsi
