@@ -57,7 +57,8 @@ tipe data, input/output & percabangan
 
 ## Input
 <b>Input pada shell</b>
-<p>Untuk membaca inputan dari user gunakanlah "read" dengan format penulisan “read nama_var”</p>
+
+* Untuk membaca inputan dari user gunakanlah "read" dengan format penulisan “read nama_var”
 
 ```bash
 #!/bin/bash
@@ -72,6 +73,7 @@ echo "Selamat datang $nama";
 
 ## Ouput
 <b>Output pada shell</b>
+
 * echo digunakan untuk menampilkan output dengan syntax sebagai berikut:
 
    * Menampilkan teks biasa
@@ -85,6 +87,7 @@ Catatan:
     Jika ingin menggunakan new line character (\n) pada echo, gunakan echo -e "teks\n teks"
     
 * Contoh
+
 ```bash
 #!/bin/bash
 matakuliah="Sistem Operasi"
@@ -94,7 +97,9 @@ read nama
 echo -e "\nHai $nama!\nSelamat datang di praktikum $matakuliah:))))"
 ```
 <p align="center"><img src="https://i.imgur.com/ctO0CrW.jpg" width=400 height=300></p>
+
 * Selain menggunakan output "echo", output bisa juga dilakukan dengan menggunakan printf seperti pada bahasa pemrograman C.
+
 * Contoh
 
 ```bash
