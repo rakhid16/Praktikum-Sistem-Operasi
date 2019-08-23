@@ -19,7 +19,7 @@
 
 * Contoh:
 
-  ```bash
+```bash
   #!/bin/bash
 
   # Mendeklarasikan fungsi
@@ -35,3 +35,4 @@
   # Memanggil fungsi
   nama
   npm
+```
