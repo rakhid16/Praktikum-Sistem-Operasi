@@ -61,19 +61,14 @@ tipe data, input/output & percabangan
 
 ```bash
 #!/bin/bash
-
-# Inisialisasi Var 
-a=55;
-b=4;
-distroLinux="Ubuntu 19.04 LTS";
-let c=a%b;
-
-# Output Printf
-printf "OS : $distroLinux \n";
-printf "$c \n";
-printf "%.2f float \n" $a;
-printf "%.1f float \n" $a;
+clear
+ 
+echo -n "Hallo, masukkan nama anda : ";
+read nama;
+echo "Selamat datang $nama";
 ```
+<p align="center"><img src="https://i.imgur.com/IAl6zC8.jpg" width=400 height=300></p>
+
 
 ## Ouput
 <b>Output pada shell</b>
