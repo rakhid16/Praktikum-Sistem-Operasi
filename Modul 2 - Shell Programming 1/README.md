@@ -1,5 +1,3 @@
-tipe data, input/output & percabangan
-
 <p align="center"><img src="https://i.imgur.com/Pc85SYF.jpg" width=400 height=300></p>
 
 ## Apa itu Pemrograman Shell?
@@ -186,23 +184,28 @@ printf "%.1f float \n" $a;
 * Contoh:
 
     ```Bash
-    #!/bin/bash
+       #!/bin/bash
 
-    echo -n "Apa makanan yang kamu suka?"
-    read makanan
+       printf "Jajan apa  yang kamu suka ?\n"
+       printf "pentol ?\n"
+       printf "batagor ?\n"
+       printf "cireng ?\n"
 
-    case "$makanan" in
-      "pentol") 
-        echo "Pentol raja depan wardug the best!" 
-        ;;
-      "pisang")
-        echo "Pocky rasa pisang enak bed" 
-        ;;
-      "indomie")
-        echo "Indomie telor unch" 
-        ;;
-      *)
-        echo "Makanan yang kamu suka gaenak hehe" 
-        ;;
-    esac
+       read jajan
+
+       case "$jajan" in
+         "pentol") 
+           echo "Pentol buk mah wenak slur!" 
+           ;;
+         "batagor")
+           echo "Batagore mas budi  mantap bat" 
+           ;;
+         "cireng")
+           echo "Cirenge kantin rasane unch-unch" 
+           ;;
+         *)
+           echo "Makanan yang kamu suka gaenak hehe" 
+           ;;
+       esac
+
     ```
