@@ -43,14 +43,14 @@ tipe data, input/output & percabangan
     - Array
     - dsb.
 
-<p><b>Contoh penggunaan String (single-quoted) & (double-quoted) : </b></p>
+* <p>Contoh penggunaan String (single-quoted) & (double-quoted) :</p>
 <p align="center"><img src="https://i.imgur.com/LaMFtno.jpg" width=400 height=300></p>
 
-<p><b>Contoh penggunaan Integer : </b></p>
+* <p>Contoh penggunaan Integer : </p>
 <p align="center"><img src="https://i.imgur.com/PDAHr6c.jpg" width=400 height=300></p>
 <p>*let = digunakan untuk melakukan operasi perhitugan aritmatika</p>
 
-<p><b>Contoh penggunaan Array : </b></p>
+* <p>Contoh penggunaan Array : </p>
 <p align="center"><img src="https://i.imgur.com/AFJVtU2.jpg" width=400 height=300>
 <img src="https://i.imgur.com/uN76pbp.jpg" width=400 height=300></p>
 
