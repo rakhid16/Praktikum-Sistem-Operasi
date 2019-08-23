@@ -215,5 +215,5 @@ printf "%.1f float \n" $a;
     ```
 <p align="center"><img src="https://i.imgur.com/StVeBWD.jpg" width=400 height=300></p>
 
-* Soal Latihan
-
+## Soal Latihan
+* Buatlah program percabangan yang menerapkan beberapa konsep pemrograman bash seperti diatas !
