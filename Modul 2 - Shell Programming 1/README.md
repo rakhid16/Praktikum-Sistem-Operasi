@@ -24,6 +24,17 @@ tipe data, input/output & percabangan
 - Bersifat case sensitive (membedakan huruf besar dan kecil)
 - Pemberian nilai variable tidak boleh dipisahkan dengan spasi, karena shell akan menganggap pemisahan tersebut sebagai parameter
 
+## Syntax Variabel
+
+   - Mendefinisikan variabel
+
+    nama_var=nilai
+
+   - Mengakses variabel
+
+    $nama_var
+
+
 ## Tipe Data
 <p align=justify>Beberapa tipe data di pemrograman shell antara lain :</p>
 
