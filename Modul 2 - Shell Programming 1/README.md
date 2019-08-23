@@ -122,11 +122,15 @@ printf "%.1f float \n" $a;
 ## Percabangan
 <p>Sebelum melangkah ke percabangan alangkah baiknya terlebih dahulu mengetahui dasar operasi relasional yang mana biasanya digunakan bersama dengan conditional statements.</p>
 
-| Tables        | Are           | Cool  |
+| No        | Operator           | Deskripsi  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| 1      | right-aligned | $1600 |
+| 2      | centered      |   $12 |
+| 3 | are neat      |    $1 |
+| 4      | right-aligned | $1600 |
+| 5      | centered      |   $12 |
+| 6 | are neat      |    $1 |
+
 
 | No 	Operator |  Deskripsi                                                                        |
 |---|:--------:|----------------------------------------------------------------------------------:| 
