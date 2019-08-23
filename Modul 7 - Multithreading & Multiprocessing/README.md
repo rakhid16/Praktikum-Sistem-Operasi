@@ -1,5 +1,5 @@
 <p align="right">
-بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
+بِسْــــــــــــــمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
 <p align=center>
 <img src="https://sebastianraschka.com/images/blog/2014/multiprocessing_intro/multiprocessing_scheme.png" width=550 height=350>
