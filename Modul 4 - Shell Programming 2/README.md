@@ -114,7 +114,7 @@ perulangan dan case
       * Syntax :
 
          ```
-         suntil kondisi
+         until kondisi
          do
             perintah
          done
