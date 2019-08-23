@@ -1,4 +1,6 @@
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ - القران الكريم
+<p align="right">
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
+</p>
 <p align="center"><img src="https://i.imgur.com/Pc85SYF.jpg" width=400 height=300></p>
 
 ## Apa itu Pemrograman Shell?
