@@ -73,3 +73,4 @@ printf "$c \n";
 printf "%.2f float \n" $a;
 printf "%.1f float \n" $a;
 ```
+<p><img src="https://i.imgur.com/4L4PRvi.jpg" width=400 height=300></p>
