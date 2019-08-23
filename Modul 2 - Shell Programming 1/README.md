@@ -120,9 +120,16 @@ printf "%.1f float \n" $a;
 <p align="center"><img src="https://i.imgur.com/4L4PRvi.jpg" width=400 height=300></p>
 
 ## Percabangan
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 * If ..... Else
 
-* Syntax
+  * Syntax
 ```
     if [ kondisi1 ]
     then 
@@ -134,9 +141,9 @@ printf "%.1f float \n" $a;
       alternatif_perintah
     fi
 ```
-* Contoh:
+  * Contoh:
 ```bash
-#!/bin/bash
+    #!/bin/bash
 
     a=15
     b=7
