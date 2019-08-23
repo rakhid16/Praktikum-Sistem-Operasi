@@ -107,3 +107,30 @@ perulangan dan case
       * Output :
       
 <p align="center"><img src="https://i.imgur.com/4HQHLMZ.jpg" width=400 height=300></p>
+
+4. <b>Until Loop</b> 
+      * Berbeda dengan while, until loop digunakan untuk mengeksekusi serangkaian perintah berulang kali sampai suatu kondisi terpenuhi.
+
+      * Syntax :
+
+         ```
+         suntil kondisi
+         do
+            perintah
+         done
+         ```
+
+      * Contoh :
+          
+         ```bash
+         #!/bin/bash
+
+         a=0
+
+         until [ ! $a -lt 10 ]
+         do
+            echo $a
+            a=$((a + 2))
+         done
+         ```
+         
