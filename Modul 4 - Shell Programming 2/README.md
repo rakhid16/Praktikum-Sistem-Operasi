@@ -138,5 +138,5 @@
 <p align="center"><img src="https://i.imgur.com/kHjZLfj.jpg" width=400 height=300></p>
 
 ## Materi ++
-<b> Materi Tambahan </b>
+*<b> Materi Tambahan </b>
 <p><a href="https://github.com/Rakhid16/Praktikum-Sistem-Operasi/tree/master/Modul%202%20-%20Shell%20Programming%201"> Materi Tambahan Percabangan (Case ... Esac) </a></p>
