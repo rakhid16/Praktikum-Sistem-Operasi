@@ -118,3 +118,40 @@ printf "%.2f float \n" $a;
 printf "%.1f float \n" $a;
 ```
 <p align="center"><img src="https://i.imgur.com/4L4PRvi.jpg" width=400 height=300></p>
+
+## Percabangan
+* If...Else
+
+* Syntax
+```
+    if [ kondisi1 ]
+    then 
+      perintah1 
+    elif [ kondisi2 ]
+    then
+      perintah2 
+    else
+      alternatif_perintah
+    fi
+```
+* Contoh:
+```bash
+#!/bin/bash
+
+    a=15
+    b=7
+
+    if [ $a == $b ]
+    then
+      echo "a sama dengan b"
+    elif [ $a -gt $b ]
+    then
+      echo "a lebih besar dari b"
+    elif [ $a -lt $b ]
+    then
+      echo "a lebih kecil dari b"
+    else
+      echo "Tidak ada kondisi yang memenuhi"
+    fi
+```
+<p> gambar
