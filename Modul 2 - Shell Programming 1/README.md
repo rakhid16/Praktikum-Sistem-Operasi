@@ -48,7 +48,7 @@ tipe data, input/output & percabangan
 
 * <p>Contoh penggunaan Integer : </p>
 <p align="center"><img src="https://i.imgur.com/PDAHr6c.jpg" width=400 height=300></p>
-<p>*let = digunakan untuk melakukan operasi perhitugan aritmatika</p>
+<p>Catatan : let = digunakan untuk melakukan operasi perhitugan aritmatika</p>
 
 * <p>Contoh penggunaan Array : </p>
 <p align="center"><img src="https://i.imgur.com/AFJVtU2.jpg" width=400 height=300>
