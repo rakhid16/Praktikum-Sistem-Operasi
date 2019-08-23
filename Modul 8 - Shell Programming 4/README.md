@@ -6,7 +6,7 @@
 * Apa itu Fungsi?
 <p><b>Fungsi</b> merupakan bagian script atau program yang berisi kumpulan beberapa statement yang melaksanakan tugas tertentu. dengan subrutin kode script kita tentunya lebih sederhana dan terstruktur, karena sekali fungsi telah dibuat dan berhasil maka akan dapat digunakan kapan saja kita inginkan.</p>
 
-* Syntax
+* Syntax :
 
 ```
   nama_fungsi () { 
@@ -17,7 +17,7 @@
   }
 ```
 
-* Contoh:
+* Contoh :
 
 ```bash
   #!/bin/bash
@@ -37,3 +37,6 @@
   nama
   npm
 ```
+* Output :
+
+<p align="center"><img src="https://i.imgur.com/ntXtYCP.jpg" width=400 height=300></p>
