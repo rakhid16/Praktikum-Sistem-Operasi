@@ -165,4 +165,5 @@ printf "%.1f float \n" $a;
       echo "Tidak ada kondisi yang memenuhi"
     fi
 ```
-<p> gambar
+<p align="center"><img src="https://i.imgur.com/Ta54NQq.jpg" width=400 height=300></p>
+
