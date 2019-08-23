@@ -143,8 +143,8 @@
 
 ## Soal Latihan
 * Buatlah program perulangan yang menerapkan beberapa konsep pemrograman bash seperti diatas dengan ketentuan sbb!
-   -  user menginputkan case awal bilangan
-   -  mencetak bilangan positif kelipatan ganjil 3 5 7 9 dst
+   -  user menginputkan acuan bilangan
+   -  mencetak bilangan positif kelipatan ganjil 3 5 7 9 dst dari bilangan acuan
    
    Contoh Output :
    
