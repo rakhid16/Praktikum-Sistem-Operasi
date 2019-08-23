@@ -11,7 +11,8 @@ perulangan dan case
     
     * Syntax
 
-    ```while kondisi
+    ```
+    while kondisi
     do
        perintah 
     done
