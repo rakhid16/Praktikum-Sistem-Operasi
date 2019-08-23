@@ -13,14 +13,13 @@ perulangan dan case
 
     ```while kondisi
     do
-      perintah 
+       perintah 
     done
     ```
     * Contoh:
 
     ```bash
     #!/bin/bash
-
     a=0
 
     while [ $a -lt 10 ]
@@ -39,3 +38,4 @@ perulangan dan case
     6
     8
     ```
+2.
