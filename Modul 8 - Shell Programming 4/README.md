@@ -42,6 +42,9 @@
 <p align="center"><img src="https://i.imgur.com/ntXtYCP.jpg" width=400 height=300></p>
 
 * Nested Function
+  <p>Fungsi Bersarang</p>
+  
+* Contoh :
 
 ```bash
   #!/bin/bash
@@ -60,6 +63,9 @@
 
   # Memanggil fungsi
   nama
- 
 ```
+
+* Output :
+
+<p align="center"><img src="https://i.imgur.com/B2tIyqN.jpg" width=400 height=300></p>
 
