@@ -120,12 +120,16 @@ printf "%.1f float \n" $a;
 <p align="center"><img src="https://i.imgur.com/4L4PRvi.jpg" width=400 height=300></p>
 
 ## Percabangan
+<p>Sebelum melangkah ke percabangan alangkah baiknya terlebih dahulu mengetahui dasar operasi relasional yang mana biasanya digunakan bersama dengan conditional statements.</p>
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| No 	Operator |  Deskripsi                                                                        |
+|---|:--------:|----------------------------------------------------------------------------------:| 
+| 1 |	  -eq    |  Memeriksa apakah nilai kedua operan sama (==)                                    |
+| 2 |	  -ne    | 	Memeriksa apakah nilai kedua operan tidak sama (!=)                              |
+| 3 |	  -gt    | 	Memeriksa apakah nilai operan kiri lebih besar daripada operan kanan (>)         | 
+| 4 |	  -lt    | 	Memeriksa apakah nilai operan kiri lebih kecil daripada operan kanan (<)         |
+| 5 |	  -ge    | 	Memeriksa apakah nilai operan kiri lebih besar atau sama dengan operan kanan (>=)|
+| 6 |	  -le    | 	Memeriksa apakah nilai operan kiri lebih kecil atau sama dengan operan kanan (<=)|
 
 * If ..... Else
 
