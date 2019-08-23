@@ -54,6 +54,27 @@ tipe data, input/output & percabangan
 <p align="center"><img src="https://i.imgur.com/AFJVtU2.jpg" width=400 height=300>
 <img src="https://i.imgur.com/uN76pbp.jpg" width=400 height=300></p>
 
+
+## Input
+<b>Input pada shell</b>
+<p>Untuk membaca inputan dari user gunakanlah "read" dengan format penulisan “read nama_var”</p>
+
+```bash
+#!/bin/bash
+
+# Inisialisasi Var 
+a=55;
+b=4;
+distroLinux="Ubuntu 19.04 LTS";
+let c=a%b;
+
+# Output Printf
+printf "OS : $distroLinux \n";
+printf "$c \n";
+printf "%.2f float \n" $a;
+printf "%.1f float \n" $a;
+```
+
 ## Ouput
 <b>Output pada shell</b>
 selain menggunakan output "echo", output bisa juga dilakukan dengan menggunakan printf seperti pada bahasa pemrograman C.
