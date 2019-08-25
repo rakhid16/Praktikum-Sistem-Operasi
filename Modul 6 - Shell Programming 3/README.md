@@ -9,7 +9,7 @@
 * Macam - Macam deklarasi array
 
     * Indirect Declaration 
-      <p>Dengan menetapkan nilai dalam indeks tertentu dari Variabel Array.</p>
+      <p>Dengan menetapkan nilai dalam indeks tertentu dari variabel array.</p>
 
       ```
       Array_name[index]=value
@@ -28,5 +28,7 @@
       ```
       ARRAYNAME=([1]=10 [2]=20 [3]=30)
       ```
-
+      
+* Contoh
+  
   
