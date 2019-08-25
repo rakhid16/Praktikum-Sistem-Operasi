@@ -104,6 +104,8 @@ echo "a = $a"
 echo "b = $b"
 ```
 
+* Output :
+
 ```
 a + b = 22
 a - b = 8
