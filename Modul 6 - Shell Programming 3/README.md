@@ -26,7 +26,7 @@
       <p>Mendeklarasikan array dengan sekelompok nilai.</p>
 
       ```
-      ARRAYNAME=([1]=10 [2]=20 [3]=30)
+      Array_name=([1]=10 [2]=20 [3]=30)
       ```
       
 * Contoh
