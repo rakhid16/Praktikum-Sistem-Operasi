@@ -53,12 +53,16 @@
 ## Tipe Data
 - Beberapa tipe data di pemrograman shell antara lain :
     - String
-    - Integer
     - Array
+    - Integer
     - dsb.
 
 * <p>Contoh penggunaan String (single-quoted) & (double-quoted) :</p>
 <p align="center"><img src="https://i.imgur.com/LaMFtno.jpg" width=400 height=300></p>
+
+* <p>Contoh penggunaan Array : </p>
+<p align="center"><img src="https://i.imgur.com/AFJVtU2.jpg" width=400 height=300>
+<img src="https://i.imgur.com/uN76pbp.jpg" width=400 height=300></p>
 
 * <p>Contoh penggunaan Integer : </p>
 <p align="center"><img src="https://i.imgur.com/PDAHr6c.jpg" width=400 height=300></p>
@@ -70,10 +74,35 @@
       * Menggunakan perintah eksternal ``expr`` atau ``awk``
       * Menggunakan perintah subtitusi ``$((ekspresi))``
 
-* <p>Contoh penggunaan Array : </p>
-<p align="center"><img src="https://i.imgur.com/AFJVtU2.jpg" width=400 height=300>
-<img src="https://i.imgur.com/uN76pbp.jpg" width=400 height=300></p>
+* Contoh operasi "Let, Expr, Ekspresi" :
+```bash
+#!/bin/bash
 
+a=15
+b=7
+
+#memakai let
+let jumlah=$a+$b
+let kurang=$a-$b
+let kali=$a*$b
+
+#memakai expr
+bagi=`expr $a / $b`
+
+#memakai perintah subtitusi $((ekspresi))
+mod=$(($a % $b)) 
+
+echo "a + b = $jumlah"
+echo "a - b = $kurang"
+echo "a * b = $kali"
+echo "a / b = $bagi"
+echo "a % b = $mod"
+
+b=$a
+
+echo "a = $a"
+echo "b = $b"
+```
 
 ## Input
 <b>Input pada shell</b>
