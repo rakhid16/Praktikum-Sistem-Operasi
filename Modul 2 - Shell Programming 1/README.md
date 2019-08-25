@@ -64,6 +64,12 @@
 <p align="center"><img src="https://i.imgur.com/PDAHr6c.jpg" width=400 height=300></p>
 <p>Catatan : let = digunakan untuk melakukan operasi perhitugan aritmatika</p>
 
+   * Ada 3 cara yang dapat digunakan untuk melakukan operasi matematika, yaitu:
+
+      * Menggunakan perintah built-in ``let``
+      * Menggunakan perintah eksternal ``expr`` atau ``awk``
+      * Menggunakan perintah subtitusi ``$((ekspresi))``
+
 * <p>Contoh penggunaan Array : </p>
 <p align="center"><img src="https://i.imgur.com/AFJVtU2.jpg" width=400 height=300>
 <img src="https://i.imgur.com/uN76pbp.jpg" width=400 height=300></p>
