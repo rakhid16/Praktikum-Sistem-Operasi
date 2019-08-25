@@ -104,6 +104,16 @@ echo "a = $a"
 echo "b = $b"
 ```
 
+```
+a + b = 22
+a - b = 8
+a * b = 105
+a / b = 2
+a % b = 1
+a = 15
+b = 15
+```
+
 ## Input
 <b>Input pada shell</b>
 
