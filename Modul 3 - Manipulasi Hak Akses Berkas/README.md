@@ -15,4 +15,4 @@ Digit pertama mewakili permission untuk owner,digit kedua mewakili permission un
 <strong>Soal Latihan:</strong><br>
 Buat dua <i>user</i> pada sistem operasi anda kemudian buatlah sebuah berkas <b>.txt</b> dari <i>user</i> pertama, dengan ketentuan :<br>
 1. Berkas <b>.txt</b> bisa dibaca dan di-<i>edit</i> oleh <i>user</i> pertama.<br>
-2. <i>User</i> kedua hanya bisa membaca berkas tersebut.
+2. <i>User</i> kedua hanya bisa membaca berkas tersebut. 
