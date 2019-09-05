@@ -8,7 +8,7 @@
 2. <i>Group Permission</i> : Hak akses suatu <i>group</i> dan semua <i>user</i> didalam <i>group</i> tersebut terhadap berkas tersebut.<br>
 3. <i>Other(World) Permission</i> : Hak akses untuk semua <i>user</i> yang ada di dalam sistem tersebut(baik <i>owner</i>, <i>group</i> dan <i>user</i> lain yang ada dalam sistem) terhadap <i>file</i> tersebut.<br>
 
-Untuk  melihat  file  permission  kamu  bisa  menggunakan  perintah ```bash $  ls -l``` dan hasilnya akan terlihat seperti dibawah ini :<br><br>
+&emsp;&emsp;&emsp;Untuk  melihat  file  permission  kamu  bisa  menggunakan  perintah ```$  ls -l``` dan hasilnya akan terlihat seperti dibawah ini :<br>
 <p align=center>
 <img src="https://i.imgur.com/PGMs9Tz.jpg">
 </p>
