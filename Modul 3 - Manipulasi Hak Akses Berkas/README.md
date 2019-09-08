@@ -12,7 +12,7 @@
 <p align=center>
 <img src="http://i.imgur.com/zo4K1iV.png">
 </p>
-<p align=justify>&emsp;&emsp;&emsp;Untuk  merubah  permission  file  atau  folder  di  linux  kamu  bisa  menggunakan  2 cara, yaitu  memasukkan  atribut  angka  dan  huruf  saat  menggunakan  perintah  chmod untuk merubah dan mengatur permission suatu file. Perintah  untuk  mengatur  danmerubah  hak  akses/permission  file  dan  folder  di linux adalah $ sudo chmod permission. Contoh: $ sudo chmod 755 file1untuk mengatur attribut permission/hak akses file1 menjadi rwxr-xr-x.</p>
+<p align=justify>&emsp;&emsp;&emsp;Untuk  merubah  permission  file  atau  folder  di  linux  kamu  bisa  menggunakan  2 cara, yaitu  memasukkan  atribut  angka  dan  huruf  saat  menggunakan  perintah  chmod untuk merubah dan mengatur permission suatu file. Perintah  untuk  mengatur  dan merubah  hak  akses/permission  file  dan  folder  di linux adalah $ sudo chmod permission. Contoh: $ sudo chmod 755 file1 untuk mengatur attribut permission/hak akses file1 menjadi rwxr-xr-x.</p>
 
 <p align=justify>Contoh : # chmod 640 dokumen1–yang artinya mengeset attribut permission file  dengan  nama  dokumen1  sehingga  owner  mempunyai  permission  read-write ,group  mempunyai  permisson  read  dan  other  tidak  mempunyai  permision  apapun terhadap file ini. Digit pertama mewakili permission untuk owner,digit kedua mewakili permission untukgroupdan  digit  ketiga  mewakili  permission  untuk other(world).Adapun  nilai dari masing-masing attribut permission (rwx) adalah:</p>
 
