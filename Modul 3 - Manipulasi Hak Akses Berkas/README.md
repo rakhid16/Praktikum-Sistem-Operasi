@@ -32,7 +32,12 @@ g=2 (SGID attribut,agar aplikasi menggunakan group owner berikutpermission ny
 12Pada  contoh  diatas  kepemilikan/owner  dari  file  tersebut  adalah  user masarie(permision read-write)dan permision untuk group dan world adalah read-only(r).<br><br>
 
 ## Contoh menambahkan user baru
+  * Pembuatan user baru
 <img src="https://i.imgur.com/Yt5i3xF.png">
+
+  * Untuk mengetahui user telah ditambah
+<img src:"https://postimg.cc/ZCMLVGjQ"> 
+
 <img src="https://i.imgur.com/Q5mSRDM.png">
 <img src="http://i.imgur.com/eogPw8X.pngw">
 <img src="https://i.imgur.com/Yt5i3xF.png">
