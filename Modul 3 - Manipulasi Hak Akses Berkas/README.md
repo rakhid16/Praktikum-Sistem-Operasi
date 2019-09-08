@@ -37,7 +37,7 @@ g=2 (SGID attribut,agar aplikasi menggunakan group owner berikutpermission ny
 <img src="http://i.imgur.com/eogPw8X.pngw">
 <img src="https://i.imgur.com/Yt5i3xF.png">
 
-<strong>Soal Latihan:</strong><br>
+## Soal Latihan
 Buat dua <i>user</i> pada sistem operasi anda kemudian buatlah sebuah berkas <b>.txt</b> dari <i>user</i> pertama, dengan ketentuan :<br>
 1. Berkas <b>.txt</b> bisa dibaca dan di-<i>edit</i> oleh <i>user</i> pertama.<br>
 2. <i>User</i> kedua hanya bisa membaca berkas tersebut.
