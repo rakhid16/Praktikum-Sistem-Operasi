@@ -2,10 +2,10 @@
 بِسْــــــــــــــمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
 <p align=justify>&emsp;&emsp;&emsp;Setiap berkas pada sistem operasi berbasis Linux mempunyai atribut yang menjelaskan hak akses <i>user</i> dan <i>group</i> terhadap berkas tersebut, yaitu hak akses untuk <i>owner</i>/<i>user</i>(pemilik berkas atau yang membuat berkas), <i>group</i>(grup yang berisi <i>user</i> tertentu), dan <i>other</i>(semua <i>user</i> dan grup). Hak akses pada sistem operasi berbasis Linux sama dengan Windows yaitu hak akses untuk membaca(<i>read</i>), memodifikasi (<i>write</i>),dan mengeksekusi berkas atau aplikasi(<i>eXecutable</i>) atau yang lebih populer disebut R-W-X.</p>
-&emsp;&emsp;&emsp;Pada Unix Like OS (termasuk Linux dan MacOS) setiap file mempunyai 3 atribut yang menerangkan akan hak akses ke file tersebut yaitu :<br>
+&emsp;&emsp;&emsp;Pada Unix Like OS (termasuk Linux dan MacOS) setiap file mempunyai 3 atribut yang menerangkan akan hak akses ke  file tersebut yaitu :<br>
 
 1. <i>Owner Permission</i> : Hak akses terhadap pemilik/pembuat berkas tersebut.<br>
-2. <i>Group Permission</i> : Hak akses suatu <i>group</i> dan semua <i>user</i> didalam <i>group</i> tersebut terhadap berkas tersebut.<br>
+2. <i>Group Permission</i> : Hak akses suatu <i>group</i> dan semua <i>user</i> di dalam <i>group</i> tersebut terhadap berkas tersebut.<br>
 3. <i>Other(World) Permission</i> : Hak akses untuk semua <i>user</i> yang ada di dalam sistem tersebut(baik <i>owner</i>, <i>group</i> dan <i>user</i> lain yang ada dalam sistem) terhadap <i>file</i> tersebut.<br>
 
 &emsp;&emsp;&emsp;Untuk  melihat  file  permission  kamu  bisa  menggunakan  perintah ```$  ls -l``` dan hasilnya akan terlihat seperti dibawah ini :<br>
