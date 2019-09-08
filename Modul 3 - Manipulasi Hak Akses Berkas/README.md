@@ -23,7 +23,7 @@ t=1 (adalah permission untuk mengeset  sticky bit dan diletakan di digitperta
 s=4 (SUID attribut,agar aplikasi menggunakan user owner berikut permissionnya ketika dijalankan oleh user lain)<br>
 g=2 (SGID attribut,agar aplikasi menggunakan group owner berikutpermission nya ketika dijalankan oleh user lain)
 
-<p align=justify>Secara  default  owner/kepemilikan  dari  sebuah  file  adalah  user  dan  group  dari pembuat file tersebut, namun adakalanya kita perlu meyesuaikan kepemilikan/ownner dari  sebuah  file  untuk  kepentingan  konfigurasi  lebih  lanjut,misalnya  sharing  file dengan user lain atau saat penginstallan aplikasi /service.Sebagai  contoh  jika  kita  membuat  file  dengan  nama jajalmenggunaan  user masarie(masarie berada di group users) maka hak akses/permision untuk file yang baru kita buat dengan user tersebut akan terlihat seperti dibawah ini :</p>
+<p align=justify>Secara  default  owner/kepemilikan  dari  sebuah  file  adalah  user  dan  group  dari pembuat file tersebut, namun adakalanya kita perlu meyesuaikan kepemilikan/ownner dari  sebuah  file  untuk  kepentingan  konfigurasi  lebih  lanjut,misalnya  sharing  file dengan user lain atau saat penginstallan aplikasi /service. Sebagai  contoh  jika  kita  membuat  file  dengan  nama jajal menggunaan  user masarie(masarie berada di group users) maka hak akses/permision untuk file yang baru kita buat dengan user tersebut akan terlihat seperti dibawah ini :</p>
 
 [masarie@SparkFly ~]$ touch jajal[masarie@SparkFly ~]$ ls -l jajal -rw-r--r--1 masarie users 0 Jul 11 14:25jajal[masarie@SparkFly ~]$
 12Pada  contoh  diatas  kepemilikan/owner  dari  file  tersebut  adalah  user masarie(permision read-write)dan permision untuk group dan world adalah read-only(r).<br><br>
