@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;Untuk  melihat  file  permission  kamu  bisa  menggunakan  perintah ```$  ls -l``` dan hasilnya akan terlihat seperti dibawah ini :<br>
 <p align=center>
-<img src="https://i.imgur.com/PGMs9Tz.jpg">
+<img src="http://i.imgur.com/zo4K1iV.png">
 </p>
 <p align=justify>&emsp;&emsp;&emsp;Untuk  merubah  permission  file  atau  folder  di  linux  kamu  bisa  menggunakan  2 cara,yaitu  memasukan  atribut  angka  dan  huruf  saat  menggunakan  perintah  chmod untuk merubah dan mengatur permission suatu file.Perintah  untuk  mengatur  danmerubah  hak  akses/permission  file  dan  folder  di linux adalah $ sudo chmod permission. Contoh: $ sudo chmod 755 file1untuk mengatur attribut permission/hak akses file1 menjadi rwxr-xr-x.</p>
 
