@@ -33,7 +33,7 @@ g=2 (SGID attribut,agar aplikasi menggunakan group owner berikutpermission ny
 
 ## Contoh menambahkan user baru
   * Pembuatan user baru
-<img src="https://i.imgur.com/Yt5i3xF.png" width=400 height=300>
+<p align="center"><img src="https://i.imgur.com/Yt5i3xF.png" width=400 height=300></p>
 
   * Untuk mengetahui user telah ditambah
 <img src="https://i.postimg.cc/g2YBkdhG/1.png" width=400 height=300>
