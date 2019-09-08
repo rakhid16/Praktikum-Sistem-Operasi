@@ -39,7 +39,9 @@ g=2 (SGID attribut,agar aplikasi menggunakan group owner berikutpermission ny
 <p align="center"><img src="https://i.postimg.cc/g2YBkdhG/1.png" width=600 height=300></p>
 
 <p align="center"><img src="https://i.imgur.com/Q5mSRDM.png" width=600 height=300></p>
+
 <p align="center"><img src="http://i.imgur.com/eogPw8X.pngw" width=600 height=300></p>
+
 <p align="center"><img src="https://i.imgur.com/Yt5i3xF.png" width=600 height=300></p>
 
 ## Soal Latihan
