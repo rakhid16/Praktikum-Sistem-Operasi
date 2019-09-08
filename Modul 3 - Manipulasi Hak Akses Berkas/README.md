@@ -36,7 +36,7 @@ g=2 (SGID attribut,agar aplikasi menggunakan group owner berikutpermission ny
 <img src="https://i.imgur.com/Yt5i3xF.png">
 
   * Untuk mengetahui user telah ditambah
-<img src:"https://postimg.cc/ZCMLVGjQ"> 
+<img src="https://i.postimg.cc/g2YBkdhG/1.png">
 
 <img src="https://i.imgur.com/Q5mSRDM.png">
 <img src="http://i.imgur.com/eogPw8X.pngw">
