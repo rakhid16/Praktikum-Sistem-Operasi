@@ -38,7 +38,7 @@ g=2 (SGID attribut,agar aplikasi menggunakan group owner berikutpermission ny
   * Untuk mengetahui user telah ditambah
 <p align="center"><img src="https://i.postimg.cc/g2YBkdhG/1.png" width=600 height=300></p>
 <p align="center"><img src="https://i.postimg.cc/Ghrkzh2H/2.png" width=600 height=300></p>
-<p align="center">note : cat /etc/passwd</p>
+<p align="center"><b>note</b> : cat /etc/passwd</p>
 
 <p align="center"><img src="https://i.imgur.com/Q5mSRDM.png" width=600 height=300></p>
 
