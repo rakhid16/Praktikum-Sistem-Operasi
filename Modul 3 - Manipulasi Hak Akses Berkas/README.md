@@ -33,14 +33,14 @@ g=2 (SGID attribut,agar aplikasi menggunakan group owner berikutpermission ny
 
 ## Contoh menambahkan user baru
   * Pembuatan user baru
-<img src="https://i.imgur.com/Yt5i3xF.png">
+<img src="https://i.imgur.com/Yt5i3xF.png" width=400 height=300>
 
   * Untuk mengetahui user telah ditambah
-<img src="https://i.postimg.cc/g2YBkdhG/1.png">
+<img src="https://i.postimg.cc/g2YBkdhG/1.png" width=400 height=300>
 
-<img src="https://i.imgur.com/Q5mSRDM.png">
-<img src="http://i.imgur.com/eogPw8X.pngw">
-<img src="https://i.imgur.com/Yt5i3xF.png">
+<img src="https://i.imgur.com/Q5mSRDM.png" width=400 height=300>
+<img src="http://i.imgur.com/eogPw8X.pngw" width=400 height=300>
+<img src="https://i.imgur.com/Yt5i3xF.png" width=400 height=300>
 
 ## Soal Latihan
 * Buat dua <i>user</i> pada sistem operasi anda kemudian buatlah sebuah berkas <b>.txt</b> dari <i>user</i> pertama, dengan ketentuan :<br>
