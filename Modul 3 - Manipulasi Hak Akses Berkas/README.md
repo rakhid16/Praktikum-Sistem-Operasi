@@ -27,7 +27,8 @@ g=2 (SGID attribut,agar aplikasi menggunakan group owner berikutpermission ny
 
 [masarie@SparkFly ~]$ touch jajal[masarie@SparkFly ~]$ ls -l jajal -rw-r--r--1 masarie users 0 Jul 11 14:25jajal[masarie@SparkFly ~]$
 12Pada  contoh  diatas  kepemilikan/owner  dari  file  tersebut  adalah  user masarie(permision read-write)dan permision untuk group dan world adalah read-only(r).<br><br>
-  
+
+* Contoh menambah user
 <img src="https://i.imgur.com/Yt5i3xF.png">
 <img src="https://i.imgur.com/Q5mSRDM.png">
 <img src="http://i.imgur.com/eogPw8X.pngw">
