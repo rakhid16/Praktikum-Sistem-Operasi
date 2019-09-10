@@ -1,16 +1,22 @@
 <p align="right">
 بِسْــــــــــــــمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
-<p align=justify>&emsp;&emsp;&emsp;Setiap berkas pada sistem operasi berbasis Linux mempunyai atribut yang menjelaskan hak akses <i>user</i> dan <i>group</i> terhadap berkas tersebut, yaitu hak akses untuk <i>owner</i>/<i>user</i>(pemilik berkas atau yang membuat berkas), <i>group</i>(grup yang berisi <i>user</i> tertentu), dan <i>other</i>(semua <i>user</i> dan grup). Hak akses pada sistem operasi berbasis Linux sama dengan Windows yaitu hak akses untuk membaca(<i>read</i>), memodifikasi(<i>write</i>),dan mengeksekusi berkas atau aplikasi(<i>eXecutable</i>) atau yang lebih populer disebut R-W-X.</p>
-&emsp;&emsp;&emsp;Pada Unix Like OS (termasuk Linux dan MacOS) setiap file mempunyai 3 atribut yang menerangkan akan hak akses ke  file tersebut yaitu :<br>
+<p align=justify>&emsp;&emsp;&emsp;Setiap berkas pada sistem operasi berbasis Linux mempunyai atribut yang menjelaskan hak akses <i>user</i> dan <i>group</i> terhadap berkas tersebut, yaitu hak akses untuk <i>owner</i>/<i>user</i>(pemilik berkas atau yang membuat berkas), <i>group</i>(grup yang berisi <i>user</i> tertentu), dan <i>other</i>(semua <i>user</i> dan grup). Hak akses pada sistem operasi berbasis Linux sama dengan Windows yaitu hak akses untuk membaca(<i>read</i>), memodifikasi(<i>write</i>),dan mengeksekusi berkas (<i>eXecutable</i>) atau yang lebih populer disebut R-W-X.</p>
+&emsp;&emsp;&emsp;Tiga atribut yang menerangkan akan hak akses ke  file tersebut yaitu :<br>
 
 1. <i>Owner Permission</i> : Hak akses terhadap pemilik/pembuat berkas tersebut.<br>
 2. <i>Group Permission</i> : Hak akses suatu <i>group</i> dan semua <i>user</i> di dalam <i>group</i> tersebut terhadap berkas tersebut.<br>
-3. <i>Other(World) Permission</i> : Hak akses untuk semua <i>user</i> yang ada di dalam sistem tersebut(baik <i>owner</i>, <i>group</i> dan <i>user</i> lain yang ada dalam sistem) terhadap <i>file</i> tersebut.<br>
+3. <i>Other(world) Permission</i> : Hak akses untuk semua <i>user</i> yang ada di dalam sistem(baik <i>owner</i>, <i>group</i> dan <i>user</i> lain yang ada pada sistem operasi tersebut) terhadap <i>berkas</i> tersebut.<br>
 
-&emsp;&emsp;&emsp;Untuk  melihat  file  permission  kamu  bisa  menggunakan  perintah ```$  ls -l``` dan hasilnya akan terlihat seperti dibawah ini :<br>
+&emsp;&emsp;&emsp;Untuk melihat <i>file permission</i> kalian bisa menggunakan perintah ```ls -l``` dan hasilnya akan terlihat seperti dibawah ini :<br>
 <p align=center>
 <img src="http://i.imgur.com/zo4K1iV.png">
+</p>
+Mari kita ambil satu berkas untuk dipelajari:
+<img src="http://i.imgur.com/izcRPYg.png">
+Hak akses pada gambar di atas adalah ```-rw-rw-r--```. Apabila semua huruf r dan w diganting dengan tanda ```-``` maka jumlah dari ```-``` adalah 10. Di mana ```-``` paling kiri sendiri adalah penunjuk apakah itu sebuah direktori(yang dilambangkan dengan ```d```) atau hanya sekadar berkas biasa(yang dilambangkan dengan ```-```). Nah setelah itu masih terdapat sembilan slot, slot ini(dari kiri ke kanan) itu merupakan hak akses untuk owner, group, dan other. Contohnya saja dari gambar tersebut hak akses untuk owner adalah ```rw-``` yang berarti owner hanya dapat read(membaca) & write(mengedit) sebuah berkas. Kemudian hak akses untuk group juga sama yaitu ```rw-``` yang berarti sebuah <i>group</i> hanya dapat <i>read</i>(membaca) & <i>write</i>(mengedit) sebuah berkas. Hak akses untuk other hanyalah ```r--``` yang berarti hanya dapat melihat/membaca sebuah berkas saja.
+
+<img src="http://i.imgur.com/Ch8WoyK.png">
 </p>
 <p align=justify>&emsp;&emsp;&emsp;Untuk  merubah  permission  file  atau  folder  di  linux  kamu  bisa  menggunakan  2 cara, yaitu  memasukkan  atribut  angka  dan  huruf  saat  menggunakan  perintah  chmod untuk merubah dan mengatur permission suatu file. Perintah  untuk  mengatur  dan merubah  hak  akses/permission  file  dan  folder  di linux adalah $ sudo chmod permission. Contoh: $ sudo chmod 755 file1 untuk mengatur attribut permission/hak akses file1 menjadi rwxr-xr-x.</p>
 
@@ -24,9 +30,6 @@ s=4 (SUID attribut,agar aplikasi menggunakan user owner berikut permissionnya ke
 g=2 (SGID attribut,agar aplikasi menggunakan group owner berikut permission nya ketika dijalankan oleh user lain)
 
 <p align=justify>Secara  default  owner/kepemilikan  dari  sebuah  file  adalah  user  dan  group  dari pembuat file tersebut, namun adakalanya kita perlu meyesuaikan kepemilikan/ownner dari  sebuah  file  untuk  kepentingan  konfigurasi  lebih  lanjut,misalnya  sharing  file dengan user lain atau saat penginstallan aplikasi /service. Sebagai  contoh  jika  kita  membuat  file  dengan  nama jajal menggunaan  user masarie(masarie berada di group users) maka hak akses/permision untuk file yang baru kita buat dengan user tersebut akan terlihat seperti dibawah ini :</p>
-
-[masarie@SparkFly ~]$ touch jajal[masarie@SparkFly ~]$ ls -l jajal -rw-r--r--1 masarie users 0 Jul 11 14:25jajal[masarie@SparkFly ~]$
-12Pada  contoh  diatas  kepemilikan/owner  dari  file  tersebut  adalah  user masarie(permision read-write)dan permision untuk group dan world adalah read-only(r).<br><br>
 
 ## Contoh menambahkan user baru
 Pembuatan user baru
