@@ -31,9 +31,9 @@ Berikut adalah hasil eksekusi perintah chmod dan kombinasi angka untuk merubah h
 <img src="http://i.imgur.com/DSIAmAS.png">
 <p align=justify>&emsp;&emsp;&emsp;Setelah perintah <b>chmod</b> terdapat tiga angka yang masing-masing melambangkan hak akses untuk <i>owner,group,other</i>. Dapat diperhatikan jika hak akses tiap berkas berubah ubah tergantung kombinasi angka yang digunakan. Angka 7 itu berasal dari 1+2+4, angka 6 berasal dari 4+2, dan kombinasi semisalnya.</p>
 
-## Contoh menambahkan user baru
-Pembuatan user baru
+Pembuatan <i>user</i> baru dengan terminal :
 <p align="center"><img src="https://i.imgur.com/Yt5i3xF.png"></p>
+Caranya dengan perintah <b>sudo adduser nama_user</b>
 
 Untuk mengetahui user telah ditambah
 <p align="center"><img src="https://i.postimg.cc/g2YBkdhG/1.png"></p>
