@@ -27,7 +27,9 @@ r = 4 (<i>read</i>-dibolehkan membaca berkas)<br>
 w = 2 (<i>write</i>-dibolehkan mengedit berkas)<br>
 x = 1 (<i>executable</i>-dibolehkan mengeksekusi berkas <i>binary</i>)<br>
 
-<p align=justify>Secara  default  owner/kepemilikan  dari  sebuah  file  adalah  user  dan  group  dari pembuat file tersebut, namun adakalanya kita perlu meyesuaikan kepemilikan/ownner dari  sebuah  file  untuk  kepentingan  konfigurasi  lebih  lanjut,misalnya  sharing  file dengan user lain atau saat penginstallan aplikasi /service. Sebagai  contoh  jika  kita  membuat  file  dengan  nama jajal menggunaan  user masarie(masarie berada di group users) maka hak akses/permision untuk file yang baru kita buat dengan user tersebut akan terlihat seperti dibawah ini :</p>
+Berikut adalah hasil eksekusi perintah chmod dan kombinasi angka untuk merubah hak akses sebuah berkas
+<img src="http://i.imgur.com/DSIAmAS.png">
+<p align=justify>&emsp;&emsp;&emsp;Setelah perintah <b>chmod</b> terdapat tiga angka yang masing-masing melambangkan hak akses untuk <i>owner,group,other</i>. Dapat diperhatikan jika hak akses tiap berkas berubah ubah tergantung kombinasi angka yang digunakan. Angka 7 itu berasal dari 1+2+4, angka 6 berasal dari 4+2, dan kombinasi semisalnya.</p>
 
 ## Contoh menambahkan user baru
 Pembuatan user baru
