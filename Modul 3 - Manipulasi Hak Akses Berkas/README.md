@@ -12,7 +12,7 @@
 <p align=center>
 <img src="http://i.imgur.com/zo4K1iV.png">
 </p>
-Mari kita ambil satu berkas untuk dipelajari:
+Mari kita ambil satu berkas untuk dipelajari:<br>
 <img src="http://i.imgur.com/izcRPYg.png">
 <p align=justify>&emsp;&emsp;&emsp;Hak akses pada gambar di atas adalah <b>-rw-rw-r--</b>. Apabila semua huruf r dan w diganti dengan tanda <b>-</b> maka jumlah dari <b>-</b> adalah 10. Di mana <b>-</b> paling kiri sendiri adalah penunjuk apakah itu sebuah direktori(yang dilambangkan dengan <b>d</b>) atau hanya sekadar berkas biasa(yang dilambangkan dengan <b>-</b>). Nah setelah itu masih terdapat sembilan slot, slot ini(dari kiri ke kanan) itu merupakan hak akses untuk <i>owner</i>, <i>group</i>, dan <i>other</i>. Contohnya saja dari gambar tersebut hak akses untuk <i>owner</i> adalah <b>rw-</b> yang berarti <i>owner</i> hanya dapat <i>read</i>(membaca) & <i>write</i>(mengedit) sebuah berkas. Kemudian hak akses untuk <i>group</i> juga sama yaitu <b>rw-</b> yang berarti sebuah <i>group</i> hanya dapat <i>read</i>(membaca) & <i>write</i>(mengedit) sebuah berkas. Hak akses untuk <i>other</i> hanyalah <b>r--</b> yang berarti hanya dapat melihat/membaca sebuah berkas saja.</p>
 
