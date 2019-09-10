@@ -12,14 +12,16 @@ Untuk melihat <i>file permission</i> kalian bisa menggunakan perintah ```ls -l``
 <p align=center>
 <img src="http://i.imgur.com/zo4K1iV.png">
 </p>
-Mari kita ambil satu berkas untuk dipelajari:<br><br>
+Mari kita ambil satu berkas untuk dipelajari:
 <img src="http://i.imgur.com/izcRPYg.png">
 <p align=justify>&emsp;&emsp;&emsp;Hak akses pada gambar di atas adalah <b>-rw-rw-r--</b>. Apabila semua huruf r dan w diganti dengan tanda <b>-</b> maka jumlah dari <b>-</b> adalah 10. Di mana <b>-</b> paling kiri sendiri adalah penunjuk apakah itu sebuah direktori(yang dilambangkan dengan <b>d</b>) atau hanya sekadar berkas biasa(yang dilambangkan dengan <b>-</b>). Nah setelah itu masih terdapat sembilan slot, slot ini(dari kiri ke kanan) itu merupakan hak akses untuk <i>owner</i>, <i>group</i>, dan <i>other</i>. Contohnya saja dari gambar tersebut hak akses untuk <i>owner</i> adalah <b>rw-</b> yang berarti <i>owner</i> hanya dapat <i>read</i>(membaca) & <i>write</i>(mengedit) sebuah berkas. Kemudian hak akses untuk <i>group</i> juga sama yaitu <b>rw-</b> yang berarti sebuah <i>group</i> hanya dapat <i>read</i>(membaca) & <i>write</i>(mengedit) sebuah berkas. Hak akses untuk <i>other</i> hanyalah <b>r--</b> yang berarti hanya dapat melihat/membaca sebuah berkas saja.</p>
 
 <p align=justify>&emsp;&emsp;&emsp;Angka <b>1</b> adalah jumlah dari berkas tersebut. Apabila jumlahnya lebih dari satu maka pastikan itu adalah sebuah direktori/<i>folder</i>. Kemudian ada tulisan <b>ikal ikal</b>, <b>ikal</b> yang pertama(sebelah kiri) adalah <i>owner</i> dari berkas tersebut sedangkan <b>ikal</b> yang kedua(sebelah kanan) adalah sebuah <i>group</i> yang menampung <i>owner</i> <b>ikal</b>. 19 adalah ukuran berkas tersebut. Sep 7 14:38 adalah tanggal terakhir berkas tersebut dimodifikasi(diedit). Lalu tulisan paling kiri adalah nama beserta ekstensi dari berkas tersebut.</p>
 
+Mari kita buktikan apakah berkas <b>belajar.sh</b> memang tidak bisa tereksekusi atau tidak
 <img src="http://i.imgur.com/Ch8WoyK.png">
 </p>
+
 <p align=justify>&emsp;&emsp;&emsp;Untuk  merubah  permission  file  atau  folder  di  linux  kamu  bisa  menggunakan  2 cara, yaitu  memasukkan  atribut  angka  dan  huruf  saat  menggunakan  perintah  chmod untuk merubah dan mengatur permission suatu file. Perintah  untuk  mengatur  dan merubah  hak  akses/permission  file  dan  folder  di linux adalah $ sudo chmod permission. Contoh: $ sudo chmod 755 file1 untuk mengatur attribut permission/hak akses file1 menjadi rwxr-xr-x.</p>
 
 <p align=justify>Contoh : # chmod 640 dokumen1–yang artinya mengeset attribut permission file  dengan  nama  dokumen1  sehingga  owner  mempunyai  permission  read-write ,group  mempunyai  permisson  read  dan  other  tidak  mempunyai  permision  apapun terhadap file ini. Digit pertama mewakili permission untuk owner,digit kedua mewakili permission untukgroupdan  digit  ketiga  mewakili  permission  untuk other(world).Adapun  nilai dari masing-masing attribut permission (rwx) adalah:</p>
