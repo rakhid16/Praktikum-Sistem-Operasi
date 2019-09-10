@@ -21,9 +21,7 @@ Mari kita ambil satu berkas untuk dipelajari :
 Mari kita buktikan apakah berkas <b>belajar.sh</b> memang tidak bisa tereksekusi atau tidak :
 <img src="http://i.imgur.com/Ch8WoyK.png">
 
-<p align=justify>&emsp;&emsp;&emsp;Untuk mengeksekusi berkas .sh kali ini kita gunakan
-  ```bash
-  ./ ```
+<p align=justify>&emsp;&emsp;&emsp;Untuk mengeksekusi berkas .sh yang mengikuti kaidah hak akses berkas kita gunakan <b>./nama_berkas.sh</b> sehingga perintah <b>bash nama_berkas.sh</b> atau <b>sh nama_berkas.sh</b> tidak digunakan karena nantinya pasti bisa tereksekusi.
 </p>
 
 <p align=justify>&emsp;&emsp;&emsp;Untuk  merubah  permission  file  atau  folder  di  linux  kamu  bisa  menggunakan  2 cara, yaitu  memasukkan  atribut  angka  dan  huruf  saat  menggunakan  perintah  chmod untuk merubah dan mengatur permission suatu file. Perintah  untuk  mengatur  dan merubah  hak  akses/permission  file  dan  folder  di linux adalah $ sudo chmod permission. Contoh: $ sudo chmod 755 file1 untuk mengatur attribut permission/hak akses file1 menjadi rwxr-xr-x.</p>
