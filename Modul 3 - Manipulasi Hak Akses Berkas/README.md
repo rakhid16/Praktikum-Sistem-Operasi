@@ -2,22 +2,21 @@
 بِسْــــــــــــــمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
 <p align=justify>&emsp;&emsp;&emsp;Setiap berkas pada sistem operasi berbasis Linux mempunyai atribut yang menjelaskan hak akses <i>user</i> dan <i>group</i> terhadap berkas tersebut, yaitu hak akses untuk <i>owner</i>/<i>user</i>(pemilik berkas atau yang membuat berkas), <i>group</i>(grup yang berisi <i>user</i> tertentu), dan <i>other</i>(semua <i>user</i> dan grup). Hak akses pada sistem operasi berbasis Linux sama dengan Windows yaitu hak akses untuk membaca(<i>read</i>), memodifikasi(<i>write</i>),dan mengeksekusi berkas (<i>eXecutable</i>) atau yang lebih populer disebut R-W-X.</p>
-&emsp;&emsp;&emsp;Tiga atribut yang menerangkan akan hak akses ke  file tersebut yaitu :<br>
+Tiga atribut yang menerangkan akan hak akses ke  file tersebut yaitu :<br>
 
 1. <i>Owner Permission</i> : Hak akses terhadap pemilik/pembuat berkas tersebut.<br>
 2. <i>Group Permission</i> : Hak akses suatu <i>group</i> dan semua <i>user</i> di dalam <i>group</i> tersebut terhadap berkas tersebut.<br>
 3. <i>Other(world) Permission</i> : Hak akses untuk semua <i>user</i> yang ada di dalam sistem(baik <i>owner</i>, <i>group</i> dan <i>user</i> lain yang ada pada sistem operasi tersebut) terhadap <i>berkas</i> tersebut.<br>
 
-&emsp;&emsp;&emsp;Untuk melihat <i>file permission</i> kalian bisa menggunakan perintah ```ls -l``` dan hasilnya akan terlihat seperti dibawah ini :<br>
+Untuk melihat <i>file permission</i> kalian bisa menggunakan perintah ```ls -l``` dan hasilnya akan terlihat seperti dibawah ini :<br>
 <p align=center>
 <img src="http://i.imgur.com/zo4K1iV.png">
 </p>
-Mari kita ambil satu berkas untuk dipelajari:<br>
+Mari kita ambil satu berkas untuk dipelajari:<br><br>
 <img src="http://i.imgur.com/izcRPYg.png">
 <p align=justify>&emsp;&emsp;&emsp;Hak akses pada gambar di atas adalah <b>-rw-rw-r--</b>. Apabila semua huruf r dan w diganti dengan tanda <b>-</b> maka jumlah dari <b>-</b> adalah 10. Di mana <b>-</b> paling kiri sendiri adalah penunjuk apakah itu sebuah direktori(yang dilambangkan dengan <b>d</b>) atau hanya sekadar berkas biasa(yang dilambangkan dengan <b>-</b>). Nah setelah itu masih terdapat sembilan slot, slot ini(dari kiri ke kanan) itu merupakan hak akses untuk <i>owner</i>, <i>group</i>, dan <i>other</i>. Contohnya saja dari gambar tersebut hak akses untuk <i>owner</i> adalah <b>rw-</b> yang berarti <i>owner</i> hanya dapat <i>read</i>(membaca) & <i>write</i>(mengedit) sebuah berkas. Kemudian hak akses untuk <i>group</i> juga sama yaitu <b>rw-</b> yang berarti sebuah <i>group</i> hanya dapat <i>read</i>(membaca) & <i>write</i>(mengedit) sebuah berkas. Hak akses untuk <i>other</i> hanyalah <b>r--</b> yang berarti hanya dapat melihat/membaca sebuah berkas saja.</p>
 
-<p align=justify>&emsp;&emsp;&emsp;Angka <b>1</b> adalah jumlah dari berkas tersebut. Apabila jumlahnya lebih dari satu maka pastikan itu adalah sebuah direktori/<i>folder</i>. Kemudian ada tulisan <b>ikal ikal</b>, ikal yang pertama(sebelah kiri) adalah owner dari berkas tersebut sedangkan ikal yang kedua(sebelah kanan) adalah sebuah group yang menampung owner ikal. 19 adalah ukuran berkas tersebut.Sep 7 14:38 adalah tanggal terakhir berkas tersebut dimodifikasi. Lalu tulisan paling kiri adalah nama beserta ekstensi dari berkas tersebut.
-</p>
+<p align=justify>&emsp;&emsp;&emsp;Angka <b>1</b> adalah jumlah dari berkas tersebut. Apabila jumlahnya lebih dari satu maka pastikan itu adalah sebuah direktori/<i>folder</i>. Kemudian ada tulisan <b>ikal ikal</b>, <b>ikal</b> yang pertama(sebelah kiri) adalah <i>owner</i> dari berkas tersebut sedangkan <b>ikal</b> yang kedua(sebelah kanan) adalah sebuah <i>group</i> yang menampung <i>owner</i> <b>ikal</b>. 19 adalah ukuran berkas tersebut. Sep 7 14:38 adalah tanggal terakhir berkas tersebut dimodifikasi(diedit). Lalu tulisan paling kiri adalah nama beserta ekstensi dari berkas tersebut.</p>
 
 <img src="http://i.imgur.com/Ch8WoyK.png">
 </p>
