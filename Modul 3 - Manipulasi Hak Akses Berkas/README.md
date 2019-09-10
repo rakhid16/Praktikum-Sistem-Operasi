@@ -21,19 +21,11 @@ Mari kita ambil satu berkas untuk dipelajari :
 Mari kita buktikan apakah berkas <b>belajar.sh</b> memang tidak bisa tereksekusi atau tidak :
 <img src="http://i.imgur.com/Ch8WoyK.png">
 
-<p align=justify>&emsp;&emsp;&emsp;Untuk mengeksekusi berkas .sh yang mengikuti kaidah hak akses berkas kita gunakan <b>./nama_berkas.sh</b> sehingga perintah <b>bash nama_berkas.sh</b> atau <b>sh nama_berkas.sh</b> tidak digunakan karena nantinya pasti bisa tereksekusi.
-</p>
+<p align=justify>&emsp;&emsp;&emsp;Untuk mengeksekusi berkas .sh yang mengikuti kaidah hak akses berkas kita gunakan <b>./nama_berkas.sh</b> sehingga perintah <b>bash nama_berkas.sh</b> atau <b>sh nama_berkas.sh</b> tidak digunakan karena nantinya pasti bisa tereksekusi. Yang jadi pertanyaannya sekarang adalah "<i>Bagaimana saya bisa mengubah hak akses suatu berkas?</i>". Caranya mudah cukup dengan menggunakan perintah <b>chmod</b> dengan kombinasi angka 4, 2, dan 1. Maksudnya Seperti ini :</p>
 
-<p align=justify>&emsp;&emsp;&emsp;Untuk  merubah  permission  file  atau  folder  di  linux  kamu  bisa  menggunakan  2 cara, yaitu  memasukkan  atribut  angka  dan  huruf  saat  menggunakan  perintah  chmod untuk merubah dan mengatur permission suatu file. Perintah  untuk  mengatur  dan merubah  hak  akses/permission  file  dan  folder  di linux adalah $ sudo chmod permission. Contoh: $ sudo chmod 755 file1 untuk mengatur attribut permission/hak akses file1 menjadi rwxr-xr-x.</p>
-
-<p align=justify>Contoh : # chmod 640 dokumen1–yang artinya mengeset attribut permission file  dengan  nama  dokumen1  sehingga  owner  mempunyai  permission  read-write ,group  mempunyai  permisson  read  dan  other  tidak  mempunyai  permision  apapun terhadap file ini. Digit pertama mewakili permission untuk owner,digit kedua mewakili permission untukgroupdan  digit  ketiga  mewakili  permission  untuk other(world).Adapun  nilai dari masing-masing attribut permission (rwx) adalah:</p>
-
-r= 4 (read /dibolehkan membaca file)<br>
-w=2 (write /dibolehkan mengedit-delete file)<br>
-x=1 (executable /dibolehkan mengeksekusi file untuk file binary)<br>
-t=1 (adalah permission untuk mengeset  sticky bit dan diletakan di digitpertama misal 1640)<br>
-s=4 (SUID attribut,agar aplikasi menggunakan user owner berikut permissionnya ketika dijalankan oleh user lain)<br>
-g=2 (SGID attribut,agar aplikasi menggunakan group owner berikut permission nya ketika dijalankan oleh user lain)
+r = 4 (<i>read</i>-dibolehkan membaca berkas)<br>
+w = 2 (<i>write</i>-dibolehkan mengedit berkas)<br>
+x = 1 (<i>executable</i>-dibolehkan mengeksekusi berkas <i>binary</i>)<br>
 
 <p align=justify>Secara  default  owner/kepemilikan  dari  sebuah  file  adalah  user  dan  group  dari pembuat file tersebut, namun adakalanya kita perlu meyesuaikan kepemilikan/ownner dari  sebuah  file  untuk  kepentingan  konfigurasi  lebih  lanjut,misalnya  sharing  file dengan user lain atau saat penginstallan aplikasi /service. Sebagai  contoh  jika  kita  membuat  file  dengan  nama jajal menggunaan  user masarie(masarie berada di group users) maka hak akses/permision untuk file yang baru kita buat dengan user tersebut akan terlihat seperti dibawah ini :</p>
 
