@@ -44,7 +44,7 @@ Untuk mengetahui user telah ditambah
 
 <p align="center"><img src="http://i.imgur.com/eogPw8X.pngw"></p>
 
-<p align="center"><img src="https://i.imgur.com/Yt5i3xF.png"></p>
+<p align="center"><img src="http://i.imgur.com/StUR8bq.png"></p>
 
 ## Soal Latihan
 Buat dua <i>user</i> pada sistem operasi anda kemudian buatlah sebuah berkas <b>.txt</b> dari <i>user</i> pertama, dengan ketentuan :<br>
