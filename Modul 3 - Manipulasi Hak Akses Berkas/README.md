@@ -23,13 +23,15 @@ Mari kita buktikan apakah berkas <b>belajar.sh</b> memang tidak bisa tereksekusi
 
 <p align=justify>&emsp;&emsp;&emsp;Untuk mengeksekusi berkas .sh yang mengikuti kaidah hak akses berkas kita gunakan <b>./nama_berkas.sh</b> sehingga perintah <b>bash nama_berkas.sh</b> atau <b>sh nama_berkas.sh</b> tidak digunakan karena nantinya pasti bisa tereksekusi. Yang jadi pertanyaannya sekarang adalah "<i>Bagaimana saya bisa mengubah hak akses suatu berkas?</i>". Caranya mudah cukup dengan menggunakan perintah <b>chmod</b> dengan kombinasi angka 4, 2, dan 1. Maksudnya Seperti ini :</p>
 
-r = 4 (<i>read</i>-dibolehkan membaca berkas)<br>
-w = 2 (<i>write</i>-dibolehkan mengedit berkas)<br>
-x = 1 (<i>executable</i>-dibolehkan mengeksekusi berkas <i>binary</i>)<br>
+r = 4 (<i>read</i>-Mengizinkan membaca berkas)<br>
+w = 2 (<i>write</i>-Mengizinkan mengedit berkas)<br>
+x = 1 (<i>executable</i>-Mengizinkan mengeksekusi berkas <i>binary</i>)<br>
 
 Berikut adalah hasil eksekusi perintah chmod dan kombinasi angka untuk merubah hak akses sebuah berkas :
 <img src="http://i.imgur.com/DSIAmAS.png">
 <p align=justify>&emsp;&emsp;&emsp;Setelah perintah <b>chmod</b> terdapat tiga angka yang masing-masing melambangkan hak akses untuk <i>owner,group,other</i>. Dapat diperhatikan jika hak akses tiap berkas berubah ubah tergantung kombinasi angka yang digunakan. Angka 7 itu berasal dari 1+2+4, angka 6 berasal dari 4+2, dan kombinasi semisalnya.</p>
+
+* Management User 
 
 Pembuatan <i>user</i> baru dengan terminal :
 <img src="https://i.imgur.com/Yt5i3xF.png">
