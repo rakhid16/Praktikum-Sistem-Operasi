@@ -45,7 +45,7 @@ Berikut adalah hasil eksekusi perintah chmod dan kombinasi angka untuk merubah h
 <img src="http://i.imgur.com/DSIAmAS.png">
 <p align=justify>&emsp;&emsp;&emsp;Setelah perintah <b>chmod</b> terdapat tiga angka yang masing-masing melambangkan hak akses untuk <i>owner,group,other</i>. Dapat diperhatikan jika hak akses tiap berkas berubah ubah tergantung kombinasi angka yang digunakan. Angka 7 itu berasal dari 1+2+4, angka 6 berasal dari 4+2, dan kombinasi semisalnya.</p>
 
-* Management User 
+### Management User 
 
 Pembuatan <i>user</i> baru dengan terminal :
 <img src="https://i.imgur.com/Yt5i3xF.png">
