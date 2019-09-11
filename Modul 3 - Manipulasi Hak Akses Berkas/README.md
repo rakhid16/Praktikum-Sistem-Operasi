@@ -27,7 +27,7 @@ r = 4 (<i>read</i>-dibolehkan membaca berkas)<br>
 w = 2 (<i>write</i>-dibolehkan mengedit berkas)<br>
 x = 1 (<i>executable</i>-dibolehkan mengeksekusi berkas <i>binary</i>)<br>
 
-Berikut adalah hasil eksekusi perintah chmod dan kombinasi angka untuk merubah hak akses sebuah berkas
+Berikut adalah hasil eksekusi perintah chmod dan kombinasi angka untuk merubah hak akses sebuah berkas :
 <img src="http://i.imgur.com/DSIAmAS.png">
 <p align=justify>&emsp;&emsp;&emsp;Setelah perintah <b>chmod</b> terdapat tiga angka yang masing-masing melambangkan hak akses untuk <i>owner,group,other</i>. Dapat diperhatikan jika hak akses tiap berkas berubah ubah tergantung kombinasi angka yang digunakan. Angka 7 itu berasal dari 1+2+4, angka 6 berasal dari 4+2, dan kombinasi semisalnya.</p>
 
@@ -38,11 +38,20 @@ Caranya dengan menulis perintah <b>sudo adduser nama_user</b><br>
 Cek <i>user(s)</i> yang ada pada sistem operasi :
 <img src="https://i.postimg.cc/g2YBkdhG/1.png">
 
+Membuat <i>group</i> dan menambahkan <i>user</i> ke dalam <i>group</i> :
 <img src="https://i.imgur.com/Q5mSRDM.png">
+Perintah <b>sudo addgroup nama_grup</b> untuk membuat grup<br>
+Perintah <b>sudo adduser nama_user nama_grup</b>
 
-<img src="http://i.imgur.com/eogPw8X.pngw">
+Melihat <i>group(s)</i> yang diikuti oleh <i>user</i> dan masuk ke dalam sebuah <i>user</i> "
+<img src="http://i.imgur.com/eogPw8X.png">
+Perintah <b>groups nama_user</b> untuk melihat <i>group(s)</i> yang diikuti oleh <i>user</i><br>
+Perintah <b>su nama_user</b> untuk masuk ke dalam <i>user</i> tersebut. Untuk keluar dari sebuah <i>user</i> cukup mengetikkan perintah <b>exit</b>
 
+Mengubah <i>user/owner</i> dan <i>group</i> dari sebuah berkas :
 <img src="http://i.imgur.com/StUR8bq.png">
+Perintah <b>chown nama_user berkas</b> untuk mengubah owner dari suatu berkas<br>
+Perintah <b>chgrp</b> untuk mengubah <i>group</i> dari sebuah berkas.
 
 ## Soal Latihan
 Buat dua <i>user</i> pada sistem operasi anda kemudian buatlah sebuah berkas <b>.txt</b> dari <i>user</i> pertama, dengan ketentuan :<br>
