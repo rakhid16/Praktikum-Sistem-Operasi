@@ -66,12 +66,14 @@ Caranya dengan menulis perintah <b>sudo deluser --remove-home nama_user</b><br>
 * Membuat <i>group</i> dan menambahkan <i>user</i> ke dalam <i>group</i> :
 <img src="https://i.imgur.com/Q5mSRDM.png">
 Perintah <b>sudo addgroup nama_grup</b> untuk membuat grup<br>
-Perintah <b>sudo adduser nama_user nama_grup</b><br>
+Perintah <b>sudo adduser nama_user nama_grup</b>
+<br>
 
 * Melihat <i>group(s)</i> yang diikuti oleh <i>user</i> dan masuk ke dalam sebuah <i>user</i> "
 <img src="http://i.imgur.com/eogPw8X.png">
 Perintah <b>groups nama_user</b> untuk melihat <i>group(s)</i> yang diikuti oleh <i>user</i><br>
-Perintah <b>su nama_user</b> untuk masuk ke dalam <i>user</i> tersebut. Untuk keluar dari sebuah <i>user</i> cukup mengetikkan perintah <b>exit</b><br>
+Perintah <b>su nama_user</b> untuk masuk ke dalam <i>user</i> tersebut. Untuk keluar dari sebuah <i>user</i> cukup mengetikkan perintah <b>exit</b>
+<br>
 
 * Mengubah <i>user/owner</i> dan <i>group</i> dari sebuah berkas :
 <img src="http://i.imgur.com/StUR8bq.png">
