@@ -5,6 +5,7 @@
 ## Perulangan
 
 * <b>Perulangan (Loop)</b> merupakan struktur program yang dapat digunakan untuk melakukan statement yang sama secara terus-menerus dengan cara yang efisien dan efektif selama kondisi tersebut terpenuhi (bernilai true).
+* Macam-macam perulangan :
 1. <b>While loop</b>
     * While loop digunakan untuk mengeksekusi serangkaian perintah berulang kali selama suatu kondisi terpenuhi.
     
