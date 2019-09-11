@@ -47,11 +47,14 @@ Berikut adalah hasil eksekusi perintah chmod dan kombinasi angka untuk merubah h
 
 ### Management User 
 
-Pembuatan <i>user</i> baru dengan terminal :
+* Pembuatan <i>user</i> baru dengan terminal :
 <img src="https://i.imgur.com/Yt5i3xF.png">
 Caranya dengan menulis perintah <b>sudo adduser nama_user</b><br>
 
-Cek <i>user(s)</i> yang ada pada sistem operasi :
+* Cek <i>user(s)</i> yang telah dibuat :
+<img src="https://i.postimg.cc/g2YBkdhG/1.png">
+
+* Menghapus user yang telah dibuat :
 <img src="https://i.postimg.cc/g2YBkdhG/1.png">
 
 Membuat <i>group</i> dan menambahkan <i>user</i> ke dalam <i>group</i> :
