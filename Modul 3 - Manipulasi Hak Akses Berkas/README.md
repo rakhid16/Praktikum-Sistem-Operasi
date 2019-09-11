@@ -1,6 +1,8 @@
 <p align="right">
 بِسْــــــــــــــمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
+
+## Manipulasi Hak Akses Berkas
 <p align=justify>&emsp;&emsp;&emsp;Setiap berkas pada sistem operasi berbasis Linux mempunyai atribut yang menjelaskan hak akses <i>user</i> dan <i>group</i> terhadap berkas tersebut, yaitu hak akses untuk <i>owner</i>/<i>user</i>(pemilik berkas atau yang membuat berkas), <i>group</i>(grup yang berisi <i>user</i> tertentu), dan <i>other</i>(semua <i>user</i> dan grup). Hak akses pada sistem operasi berbasis Linux sama dengan Windows yaitu hak akses untuk membaca(<i>read</i>), memodifikasi(<i>write</i>),dan mengeksekusi berkas (<i>eXecutable</i>) atau yang lebih populer disebut R-W-X.</p>
 Tiga atribut yang menerangkan akan hak akses ke  file tersebut yaitu :<br>
 
@@ -27,9 +29,9 @@ r = 4 (<i>read</i>-Mengizinkan membaca berkas)<br>
 w = 2 (<i>write</i>-Mengizinkan mengedit berkas)<br>
 x = 1 (<i>executable</i>-Mengizinkan mengeksekusi berkas <i>binary</i>)<br>
 
-## Detail Akses Berkas
+### Detail Akses Berkas
 | Nilai	|  Arti  |
-| - | :--------:|
+| :-: | :--------:|
 | 0	| \- \- \- |
 | 1	| \- \- x |
 | 2	| \- w \- |
@@ -38,18 +40,6 @@ x = 1 (<i>executable</i>-Mengizinkan mengeksekusi berkas <i>binary</i>)<br>
 | 5	| r \- x |
 | 6	| r w \- |
 | 7	| r w x |
-
-## Operator Aritmatika
-| No |	Operator |	Deskripsi |
-| - | :---: | :-------- |
-| 1 |	+ |	Penjumlahan |
-| 2 |	- |	Pengurangan |
-| 3 |	* |	Perkalian |
-| 4 |	/ |	Pembagian |
-| 5 |	% |	Modulus (sisa pembagian) |
-| 6 |	= |	Menempatkan nilai di sisi kanan ke variabel di sisi kiri |
-| 7 |	== |	Membandingkan 2 nilai yang sama |
-| 8 |	!= |	Membandingkan 2 nilai yang tidak sama |
 
 Berikut adalah hasil eksekusi perintah chmod dan kombinasi angka untuk merubah hak akses sebuah berkas :
 <img src="http://i.imgur.com/DSIAmAS.png">
