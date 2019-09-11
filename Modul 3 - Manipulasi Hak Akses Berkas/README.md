@@ -30,8 +30,9 @@ w = 2 (<i>write</i>-Mengizinkan mengedit berkas)<br>
 x = 1 (<i>executable</i>-Mengizinkan mengeksekusi berkas <i>binary</i>)<br>
 
 ### Detail Akses Berkas
-<img src="https://i.postimg.cc/QdQLznHV/konversi-hak-akses.png" width="100px" height="100px" >
+<img src="https://i.postimg.cc/QdQLznHV/konversi-hak-akses.png" width="250px" height="150px" >
 
+<div style="margin=right">
 | Nilai	|  Arti  | 
 | :-: | :--------:|
 | 0	| \- \- \- |
@@ -42,6 +43,7 @@ x = 1 (<i>executable</i>-Mengizinkan mengeksekusi berkas <i>binary</i>)<br>
 | 5	| r \- x |
 | 6	| r w \- |
 | 7	| r w x |
+</div>
 
 Berikut adalah hasil eksekusi perintah chmod dan kombinasi angka untuk merubah hak akses sebuah berkas :
 <img src="http://i.imgur.com/DSIAmAS.png">
