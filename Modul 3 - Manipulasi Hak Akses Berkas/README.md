@@ -28,16 +28,16 @@ w = 2 (<i>write</i>-Mengizinkan mengedit berkas)<br>
 x = 1 (<i>executable</i>-Mengizinkan mengeksekusi berkas <i>binary</i>)<br>
 
 ======	=========
-Nilai	Arti
+Nilai	  Arti
 ======	=========
-0	\- \- \-
-1	\- \- x
-2	\- w \-
-3	\- w x
-4	r \- \-
-5	r \- x
-6	r w \-
-7	r w x
+0	      \- \- \-
+1	      \- \- x
+2	      \- w \-
+3	      \- w x
+4	      r \- \-
+5	      r \- x
+6	      r w \-
+7	      r w x
 ======	=========
 
 Berikut adalah hasil eksekusi perintah chmod dan kombinasi angka untuk merubah hak akses sebuah berkas :
