@@ -30,11 +30,12 @@ w = 2 (<i>write</i>-Mengizinkan mengedit berkas)<br>
 x = 1 (<i>executable</i>-Mengizinkan mengeksekusi berkas <i>binary</i>)<br>
 
 ### Detail Akses Berkas
+<img src="https://i.postimg.cc/QdQLznHV/konversi-hak-akses.png" width="50%" height="50%" >
 | Nilai	|  Arti  | 
 | :-: | :--------:|
 | 0	| \- \- \- |
 | 1	| \- \- x |
-| 2	| \- w \- |  <img src="https://i.postimg.cc/QdQLznHV/konversi-hak-akses.png" width="50%" height="50%" >
+| 2	| \- w \- |  
 | 3	| \- w x |
 | 4	| r \- \- |
 | 5	| r \- x |
