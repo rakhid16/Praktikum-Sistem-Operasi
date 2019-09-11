@@ -30,11 +30,11 @@ w = 2 (<i>write</i>-Mengizinkan mengedit berkas)<br>
 x = 1 (<i>executable</i>-Mengizinkan mengeksekusi berkas <i>binary</i>)<br>
 
 ### Detail Akses Berkas
-| Nilai	|  Arti  |
+| Nilai	|  Arti  | 
 | :-: | :--------:|
 | 0	| \- \- \- |
 | 1	| \- \- x |
-| 2	| \- w \- |
+| 2	| \- w \- |  <img src="https://i.postimg.cc/QdQLznHV/konversi-hak-akses.png" width="50%" height="50%" >
 | 3	| \- w x |
 | 4	| r \- \- |
 | 5	| r \- x |
@@ -45,7 +45,7 @@ Berikut adalah hasil eksekusi perintah chmod dan kombinasi angka untuk merubah h
 <img src="http://i.imgur.com/DSIAmAS.png">
 <p align=justify>&emsp;&emsp;&emsp;Setelah perintah <b>chmod</b> terdapat tiga angka yang masing-masing melambangkan hak akses untuk <i>owner,group,other</i>. Dapat diperhatikan jika hak akses tiap berkas berubah ubah tergantung kombinasi angka yang digunakan. Angka 7 itu berasal dari 1+2+4, angka 6 berasal dari 4+2, dan kombinasi semisalnya.</p>
 
-### Management User 
+### Management Users
 
 * Pembuatan <i>user</i> baru dengan terminal :
 <img src="https://i.imgur.com/Yt5i3xF.png">
@@ -58,6 +58,8 @@ Caranya dengan menulis perintah <b>cd /home/ kemudian ls</b><br><br>
 * Menghapus user yang telah dibuat :
 <img src="https://i.postimg.cc/tRSmRyh6/2.png">
 Caranya dengan menulis perintah <b>sudo deluser --remove-home nama_user</b><br><br>
+
+### Management Groups
 
 Membuat <i>group</i> dan menambahkan <i>user</i> ke dalam <i>group</i> :
 <img src="https://i.imgur.com/Q5mSRDM.png">
