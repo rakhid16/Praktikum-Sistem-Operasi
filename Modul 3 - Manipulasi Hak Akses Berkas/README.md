@@ -27,18 +27,29 @@ r = 4 (<i>read</i>-Mengizinkan membaca berkas)<br>
 w = 2 (<i>write</i>-Mengizinkan mengedit berkas)<br>
 x = 1 (<i>executable</i>-Mengizinkan mengeksekusi berkas <i>binary</i>)<br>
 
-======	=========
-Nilai	  Arti
-======	=========
-0	      \- \- \-
-1	      \- \- x
-2	      \- w \-
-3	      \- w x
-4	      r \- \-
-5	      r \- x
-6	      r w \-
-7	      r w x
-======	=========
+## Detail Akses Berkas
+| Nilai	|  Arti  |
+| - | :--------:|
+| 0	| \- \- \- |
+| 1	| \- \- x |
+| 2	| \- w \- |
+| 3	| \- w x |
+| 4	| r \- \- |
+| 5	| r \- x |
+| 6	| r w \- |
+| 7	| r w x |
+
+## Operator Aritmatika
+| No |	Operator |	Deskripsi |
+| - | :---: | :-------- |
+| 1 |	+ |	Penjumlahan |
+| 2 |	- |	Pengurangan |
+| 3 |	* |	Perkalian |
+| 4 |	/ |	Pembagian |
+| 5 |	% |	Modulus (sisa pembagian) |
+| 6 |	= |	Menempatkan nilai di sisi kanan ke variabel di sisi kiri |
+| 7 |	== |	Membandingkan 2 nilai yang sama |
+| 8 |	!= |	Membandingkan 2 nilai yang tidak sama |
 
 Berikut adalah hasil eksekusi perintah chmod dan kombinasi angka untuk merubah hak akses sebuah berkas :
 <img src="http://i.imgur.com/DSIAmAS.png">
