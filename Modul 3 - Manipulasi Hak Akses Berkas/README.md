@@ -36,16 +36,13 @@ Pembuatan <i>user</i> baru dengan terminal :
 Caranya dengan menulis perintah <b>sudo adduser nama_user</b><br>
 
 Cek <i>user(s)</i> yang ada pada sistem operasi :
-<p align="center"><img src="https://i.postimg.cc/g2YBkdhG/1.png"></p>
+<img src="https://i.postimg.cc/g2YBkdhG/1.png">
 
-<p align="center"><img src="https://i.postimg.cc/Ghrkzh2H/2.png"></p>
-<p align="center"><b>note</b> : cat /etc/passwd</p>
+<img src="https://i.imgur.com/Q5mSRDM.png">
 
-<p align="center"><img src="https://i.imgur.com/Q5mSRDM.png"></p>
+<img src="http://i.imgur.com/eogPw8X.pngw">
 
-<p align="center"><img src="http://i.imgur.com/eogPw8X.pngw"></p>
-
-<p align="center"><img src="http://i.imgur.com/StUR8bq.png"></p>
+<img src="http://i.imgur.com/StUR8bq.png">
 
 ## Soal Latihan
 Buat dua <i>user</i> pada sistem operasi anda kemudian buatlah sebuah berkas <b>.txt</b> dari <i>user</i> pertama, dengan ketentuan :<br>
