@@ -56,8 +56,8 @@ Caranya dengan menulis perintah <b>sudo adduser nama_user</b><br>
 Caranya dengan menulis perintah <b>cd /home/ kemudian ls</b><br>
 
 * Menghapus user yang telah dibuat :
-<img src="https://i.postimg.cc/g2YBkdhG/1.png">
-Caranya dengan menulis perintah <b>sudo deluser</b><br>
+<img src="https://i.postimg.cc/tRSmRyh6/2.png">
+Caranya dengan menulis perintah <b>sudo deluser --remove-home nama_user</b><br>
 
 Membuat <i>group</i> dan menambahkan <i>user</i> ke dalam <i>group</i> :
 <img src="https://i.imgur.com/Q5mSRDM.png">
