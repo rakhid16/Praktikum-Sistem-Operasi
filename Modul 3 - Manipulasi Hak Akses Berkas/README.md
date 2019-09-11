@@ -49,15 +49,15 @@ Berikut adalah hasil eksekusi perintah chmod dan kombinasi angka untuk merubah h
 
 * Pembuatan <i>user</i> baru dengan terminal :
 <img src="https://i.imgur.com/Yt5i3xF.png">
-Caranya dengan menulis perintah <b>sudo adduser nama_user</b><br>
+Caranya dengan menulis perintah <b>sudo adduser nama_user</b><br><br>
 
 * Cek <i>user(s)</i> yang telah dibuat :<br>
 <img src="https://i.postimg.cc/T3nYrt0R/1.png">
-Caranya dengan menulis perintah <b>cd /home/ kemudian ls</b><br>
+Caranya dengan menulis perintah <b>cd /home/ kemudian ls</b><br><br>
 
 * Menghapus user yang telah dibuat :
 <img src="https://i.postimg.cc/tRSmRyh6/2.png">
-Caranya dengan menulis perintah <b>sudo deluser --remove-home nama_user</b><br>
+Caranya dengan menulis perintah <b>sudo deluser --remove-home nama_user</b><br><br>
 
 Membuat <i>group</i> dan menambahkan <i>user</i> ke dalam <i>group</i> :
 <img src="https://i.imgur.com/Q5mSRDM.png">
