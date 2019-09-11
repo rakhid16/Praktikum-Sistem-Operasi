@@ -27,6 +27,19 @@ r = 4 (<i>read</i>-Mengizinkan membaca berkas)<br>
 w = 2 (<i>write</i>-Mengizinkan mengedit berkas)<br>
 x = 1 (<i>executable</i>-Mengizinkan mengeksekusi berkas <i>binary</i>)<br>
 
+======	=========
+Nilai	Arti
+======	=========
+0	\- \- \-
+1	\- \- x
+2	\- w \-
+3	\- w x
+4	r \- \-
+5	r \- x
+6	r w \-
+7	r w x
+======	=========
+
 Berikut adalah hasil eksekusi perintah chmod dan kombinasi angka untuk merubah hak akses sebuah berkas :
 <img src="http://i.imgur.com/DSIAmAS.png">
 <p align=justify>&emsp;&emsp;&emsp;Setelah perintah <b>chmod</b> terdapat tiga angka yang masing-masing melambangkan hak akses untuk <i>owner,group,other</i>. Dapat diperhatikan jika hak akses tiap berkas berubah ubah tergantung kombinasi angka yang digunakan. Angka 7 itu berasal dari 1+2+4, angka 6 berasal dari 4+2, dan kombinasi semisalnya.</p>
