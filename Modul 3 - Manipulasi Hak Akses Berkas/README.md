@@ -51,7 +51,7 @@ Berikut adalah hasil eksekusi perintah chmod dan kombinasi angka untuk merubah h
 <img src="https://i.imgur.com/Yt5i3xF.png">
 Caranya dengan menulis perintah <b>sudo adduser nama_user</b><br><br>
 
-* Cek <i>user(s)</i> yang telah dibuat :<br>
+* Cek <i>user(s)</i> yang telah dibuat :
 <img src="https://i.postimg.cc/T3nYrt0R/1.png">
 Caranya dengan menulis perintah <b>cd /home/ kemudian ls</b><br><br>
 
