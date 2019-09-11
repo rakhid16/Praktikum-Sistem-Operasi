@@ -59,21 +59,21 @@ Caranya dengan menulis perintah <b>cd /home/ kemudian ls</b><br><br>
 
 * Menghapus user yang telah dibuat :
 <img src="https://i.postimg.cc/tRSmRyh6/2.png">
-Caranya dengan menulis perintah <b>sudo deluser --remove-home nama_user</b><br><br>
+Caranya dengan menulis perintah <b>sudo deluser --remove-home nama_user</b><br>
 
 ### Management Groups
 
-Membuat <i>group</i> dan menambahkan <i>user</i> ke dalam <i>group</i> :
+* Membuat <i>group</i> dan menambahkan <i>user</i> ke dalam <i>group</i> :
 <img src="https://i.imgur.com/Q5mSRDM.png">
 Perintah <b>sudo addgroup nama_grup</b> untuk membuat grup<br>
 Perintah <b>sudo adduser nama_user nama_grup</b>
 
-Melihat <i>group(s)</i> yang diikuti oleh <i>user</i> dan masuk ke dalam sebuah <i>user</i> "
+* Melihat <i>group(s)</i> yang diikuti oleh <i>user</i> dan masuk ke dalam sebuah <i>user</i> "
 <img src="http://i.imgur.com/eogPw8X.png">
 Perintah <b>groups nama_user</b> untuk melihat <i>group(s)</i> yang diikuti oleh <i>user</i><br>
 Perintah <b>su nama_user</b> untuk masuk ke dalam <i>user</i> tersebut. Untuk keluar dari sebuah <i>user</i> cukup mengetikkan perintah <b>exit</b>
 
-Mengubah <i>user/owner</i> dan <i>group</i> dari sebuah berkas :
+* Mengubah <i>user/owner</i> dan <i>group</i> dari sebuah berkas :
 <img src="http://i.imgur.com/StUR8bq.png">
 Perintah <b>sudo chown nama_user berkas</b> untuk mengubah owner dari suatu berkas<br>
 Perintah <b>sudo chgrp nama_group</b> untuk mengubah <i>group</i> dari sebuah berkas.
