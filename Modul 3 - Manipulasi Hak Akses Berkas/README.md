@@ -80,7 +80,8 @@ Perintah <b>su nama_user</b> untuk masuk ke dalam <i>user</i> tersebut. Untuk ke
 * Mengubah <i>user/owner</i> dan <i>group</i> dari sebuah berkas :
 <img src="http://i.imgur.com/StUR8bq.png">
 Perintah <b>sudo chown nama_user berkas</b> untuk mengubah owner dari suatu berkas<br>
-Perintah <b>sudo chgrp nama_group</b> untuk mengubah <i>group</i> dari sebuah berkas.<br>
+Perintah <b>sudo chgrp nama_group</b> untuk mengubah <i>group</i> dari sebuah berkas.
+<br><br>
 
 
 * Menghapus <i>group</i>
