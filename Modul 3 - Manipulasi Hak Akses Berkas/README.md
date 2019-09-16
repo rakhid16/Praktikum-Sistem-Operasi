@@ -80,11 +80,13 @@ Perintah <b>su nama_user</b> untuk masuk ke dalam <i>user</i> tersebut. Untuk ke
 * Mengubah <i>user/owner</i> dan <i>group</i> dari sebuah berkas :
 <img src="http://i.imgur.com/StUR8bq.png">
 Perintah <b>sudo chown nama_user berkas</b> untuk mengubah owner dari suatu berkas<br>
-Perintah <b>sudo chgrp nama_group</b> untuk mengubah <i>group</i> dari sebuah berkas.
+Perintah <b>sudo chgrp nama_group</b> untuk mengubah <i>group</i> dari sebuah berkas.<br>
+
 
 * Menghapus <i>group</i>
 <img src="https://i.postimg.cc/85JpcfyX/111.png">
 Printah <b>sudo delgroup nama_group</b><br>
+
 
 ## Soal Latihan
 Buat dua <i>user</i> pada sistem operasi anda kemudian buatlah sebuah berkas <b>.txt</b> dari <i>user</i> pertama, dengan ketentuan :<br>
