@@ -23,5 +23,5 @@ Referensi :<br>
 1 Modul Praktikum Sistem Operasi Teknik Informatika UPNVJT 2018<br>
 2 https://drive.google.com/open?id=1eVejdSRRr1fdhLGBtxvZ6EoAH7rkfMuc
 
-Video panduan untuk praktikum Modul 5 :
+Video panduan untuk praktikum Modul 5 :<br>
 <a href="https://drive.google.com/file/d/1Be0RHbVGaQ5bYX4ndfYtl-0C1gLJeQI0/view?usp=sharing">PANDUAN</a>
