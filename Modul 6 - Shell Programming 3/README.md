@@ -151,7 +151,7 @@
 
 ## Soal Latihan
 * Buatlah program array yang dapat menghitung nilai rata-rata IPS mahasiswa yang menerapkan beberapa konsep pemrograman bash seperti diatas dengan ketentuan sbb!
-   -  ips mahasiswa = (4,0 3,0 3,0 2,0)
+   -  ips mahasiswa = (4,0  3,0  3,0  2,0)
    -  rata_rata = 12 / 4 
    
    Contoh Output :
