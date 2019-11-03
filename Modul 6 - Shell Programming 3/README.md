@@ -29,14 +29,26 @@
       Array_name=([1]=10 [2]=20 [3]=30)
       ```
       
-* Contoh - 1 [Inderect Declaration] :
+### Contoh - 1 [Inderect Declaration] :
 
       ```
       Array_name[index]=value
       ```
-*  Output - 1 :
+      
+      *  Output - 1 :
 
-<p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
+      <p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
+
+### Contoh - 2 [Explicit Declaration] :
+
+      ```
+      Array_name[index]=value
+      ```
+
+      *  Output - 2 :
+
+      <p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
+
 
 
   
