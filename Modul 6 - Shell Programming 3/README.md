@@ -104,6 +104,34 @@
 
 <p align="center"><img src="https://i.imgur.com/qFkqOWU.png" width=400 height=300></p>
 
+## Array Multi Dimensi
 
-  
-  
+* <p align=justify>Bash tidak memiliki array multi dimensi. Tetapi dapat mensimulasikan efek yang agak mirip dengan array asosiatif dimensi</p>
+
+   *  Contoh :
+
+      ```bash
+      #!/bin/bash
+
+      # deklarasi array2dimensi " : " pemisah nilai (array [4][3])
+      array2dimensi="1.1:1.2:1.3:1.4 2.1:2.2:2.3:2.4 3.1:3.2:3.3:3.4"
+
+      # mengakali multi dimensi -> dengan pemisah dimensi "tr :"
+      function dimensiBaris {
+          for baris in $array2dimensi
+          do
+              dimensiKolom `echo $baris | tr : " "`
+          done
+      }
+
+      function dimensiKolom {
+          for kolom in $*
+          do
+              echo -n $kolom "  "
+          done
+          echo
+      }
+
+      # melakukan pemanggilan fungsi
+      dimensiBaris
+      ```
