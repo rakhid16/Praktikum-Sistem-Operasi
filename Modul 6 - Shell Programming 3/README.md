@@ -142,3 +142,26 @@
    *  Output :
 
 <p align="center"><img src="https://imgur.com/xO0Leq3.png" width=400 height=300></p>
+
+<br>
+<br>
+
+## Soal Latihan
+* Buatlah program perulangan yang menerapkan beberapa konsep pemrograman bash seperti diatas dengan ketentuan sbb!
+   -  user menginputkan acuan bilangan
+   -  mencetak bilangan positif kelipatan ganjil 3 5 7 9 dst dari bilangan acuan
+   
+   Contoh Output :
+   
+   ```
+   Input : 15
+   
+   15
+   13
+   11
+   9
+   7
+   5
+   3
+   1
+   ```
