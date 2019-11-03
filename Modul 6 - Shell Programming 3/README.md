@@ -29,43 +29,7 @@
       Array_name=([1]=10 [2]=20 [3]=30)
       ```
       
-### Contoh - 1 [Indirect Declaration] :
-
-      ```bash
-      Array_name[index]=value
-      ```
-      
-   *  Output - 1 :
-
-<p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
-
-### Contoh - 2 [Explicit Declaration] :
-
-      ```bash
-      declare -a Array_name
-      ```
-
-   *  Output - 2 :
-
-<p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
-
-### Contoh - 3 [Compound Assignment] :
-
-      ```bash
-      #!/bin/bash
-
-      #deklarasi array compound assignment
-      distroLinuxDesktop=('BlankOn' 'Ubuntu' 'Debian' 'ArchLinux' 'LinuxMint')
-      distroLinuxServer=('UbuntuServer' 'CentOS' 'FedoraServer')
-
-      #cara mengambil nilai array
-      echo ${distroLinuxDesktop[*]}
-      echo ${distroLinuxServer[*]}
-      ```
-
-   *  Output - 3 :
-
-<p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
+### Array [Indirect Declaration] :
 
    *  Contoh :
 
@@ -80,6 +44,51 @@
       echo ${distroLinuxDesktop[*]}
       echo ${distroLinuxServer[*]}
       ```
+     
+   *  Output - 1 :
+
+<p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
+
+### Array [Explicit Declaration] :
+
+   *  Contoh :
+
+      ```bash
+      #!/bin/bash
+      
+      #deklarasi array compound assignment
+      distroLinuxDesktop=('BlankOn' 'Ubuntu' 'Debian' 'ArchLinux' 'LinuxMint')
+      distroLinuxServer=('UbuntuServer' 'CentOS' 'FedoraServer')
+
+      #cara mengambil nilai array
+      echo ${distroLinuxDesktop[*]}
+      echo ${distroLinuxServer[*]}
+      ```
+
+   *  Output - 2 :
+
+<p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
+
+### Array [Compound Assignment] :
+
+   *  Contoh :
+
+      ```bash
+      #!/bin/bash
+      
+      #deklarasi array compound assignment
+      distroLinuxDesktop=('BlankOn' 'Ubuntu' 'Debian' 'ArchLinux' 'LinuxMint')
+      distroLinuxServer=('UbuntuServer' 'CentOS' 'FedoraServer')
+
+      #cara mengambil nilai array
+      echo ${distroLinuxDesktop[*]}
+      echo ${distroLinuxServer[*]}
+      ```
+
+   *  Output - 3 :
+
+<p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
+
 
   
   
