@@ -151,7 +151,7 @@
 
 ## Soal Latihan
 * Buatlah program array yang dapat menghitung nilai IPK mahasiswa yang menerapkan beberapa konsep pemrograman bash seperti diatas dengan ketentuan sbb!
-   -  total IPS mahasiswa = (4,0  $nbsp; 3,0 $nbsp; 3,0 $nbsp; 2,0)
+   -  total IPS mahasiswa = (4,0  &nbsp; 3,0 &nbsp; 3,0 &nbsp; 2,0)
    -  IPK mahasiswa = 12 / 4 
    
    Contoh Output :
