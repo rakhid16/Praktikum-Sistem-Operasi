@@ -150,21 +150,13 @@
 <br>
 
 ## Soal Latihan
-* Buatlah program perulangan yang menerapkan beberapa konsep pemrograman bash seperti diatas dengan ketentuan sbb!
-   -  user menginputkan acuan bilangan
-   -  mencetak bilangan positif kelipatan ganjil 3 5 7 9 dst dari bilangan acuan
+* Buatlah program array yang dapat menghitung nilai rata-rata IPS mahasiswa yang menerapkan beberapa konsep pemrograman bash seperti diatas dengan ketentuan sbb!
+   -  ips mahasiswa = (4,0 3,0 3,0 2,0)
+   -  rata_rata = 12 / 4 
    
    Contoh Output :
    
-   ```
-   Input : 15
-   
-   15
-   13
-   11
-   9
-   7
-   5
-   3
-   1
+   ```bash
+   total_ips = 12 / 4
+   rata2 = 3
    ```
