@@ -29,6 +29,12 @@
       Array_name=([1]=10 [2]=20 [3]=30)
       ```
       
-* Contoh
+* Contoh - 1 [Inderect Declaration] :
+
+      ```
+      Array_name[index]=value
+      ```
+*  Output - 1 :
+
   
   
