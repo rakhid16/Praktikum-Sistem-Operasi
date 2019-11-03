@@ -29,7 +29,7 @@
       Array_name=([1]=10 [2]=20 [3]=30)
       ```
       
-### Contoh - 1 [Inderect Declaration] :
+### Contoh - 1 [Indirect Declaration] :
 
       ```
       Array_name[index]=value
@@ -52,7 +52,15 @@
 ### Contoh - 3 [Compound Assignment] :
 
       ```
-      declare -a Array_name
+      #!/bin/bash
+
+      # deklarasi array compound assignment
+      distroLinuxDesktop=('BlankOn' 'Ubuntu' 'Debian' 'ArchLinux' 'LinuxMint')
+      distroLinuxServer=('UbuntuServer' 'CentOS' 'FedoraServer')
+
+      # cara mengambil nilai array
+      echo ${distroLinuxDesktop[*]}
+      echo ${distroLinuxServer[*]}
       ```
 
    *  Output - 3 :
