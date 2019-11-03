@@ -150,13 +150,13 @@
 <br>
 
 ## Soal Latihan
-* Buatlah program array yang dapat menghitung nilai rata-rata IPS mahasiswa yang menerapkan beberapa konsep pemrograman bash seperti diatas dengan ketentuan sbb!
-   -  ips mahasiswa = (4,0  3,0  3,0  2,0)
-   -  rata_rata = 12 / 4 
+* Buatlah program array yang dapat menghitung nilai IPK mahasiswa yang menerapkan beberapa konsep pemrograman bash seperti diatas dengan ketentuan sbb!
+   -  total IPS mahasiswa = (4,0  3,0  3,0  2,0)
+   -  IPK mahasiswa = 12 / 4 
    
    Contoh Output :
    
    ```bash
-   total_ips = 12 / 4
-   rata2 = 3
+   IPS mhs = 12 / 4
+   IPK mhs = 3
    ```
