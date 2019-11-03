@@ -67,6 +67,16 @@
 
 <p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
 
+   *  Contoh :
+
+      ```bash
+      #!/bin/bash
+
+      for angka in 1 2 3 4 5
+      do
+         echo $angka
+      done
+      ```
 
   
   
