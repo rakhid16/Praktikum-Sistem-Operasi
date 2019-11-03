@@ -31,7 +31,7 @@
       
 ### Contoh - 1 [Indirect Declaration] :
 
-      ```
+      ```bash
       Array_name[index]=value
       ```
       
@@ -41,7 +41,7 @@
 
 ### Contoh - 2 [Explicit Declaration] :
 
-      ```
+      ```bash
       declare -a Array_name
       ```
 
@@ -51,7 +51,7 @@
 
 ### Contoh - 3 [Compound Assignment] :
 
-      ```
+      ```bash
       #!/bin/bash
 
       # deklarasi array compound assignment
