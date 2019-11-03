@@ -54,7 +54,7 @@
      
    *  Output :
 
-<p align="center"><img src="https://imgur.com/OP5AqFr" width=400 height=300></p>
+<p align="center"><img src="https://imgur.com/OP5AqFr.png" width=400 height=300></p>
 
 ### Array [Explicit Declaration] :
 
