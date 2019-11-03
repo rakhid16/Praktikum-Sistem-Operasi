@@ -2,7 +2,7 @@
 بِسْــــــــــــــمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
 
-## Array
+# Array
 
 <p align="center"><img src="https://blog.eduonix.com/wp-content/uploads/2015/09/arrays-in-linux-shell-scripting.jpg" width=600 height=300></p>
 
