@@ -36,16 +36,23 @@
       ```bash
       #!/bin/bash
       
-      #deklarasi array compound assignment
-      distroLinuxDesktop=('BlankOn' 'Ubuntu' 'Debian' 'ArchLinux' 'LinuxMint')
-      distroLinuxServer=('UbuntuServer' 'CentOS' 'FedoraServer')
+      # deklarasi array indirect declaration
+      distroLinuxDesktop[0]=BlankOn
+      distroLinuxDesktop[1]=Ubuntu
+      distroLinuxDesktop[2]=Debian
+      distroLinuxDesktop[3]=ArchLinux
+      distroLinuxDesktop[4]=LinuxMint
 
-      #cara mengambil nilai array
+      distroLinuxServer[0]=UbuntuServer
+      distroLinuxServer[1]=CentOS
+      distroLinuxServer[2]=FedoraServer
+
+      # cara mengambil nilai array
       echo ${distroLinuxDesktop[*]}
       echo ${distroLinuxServer[*]}
       ```
      
-   *  Output - 1 :
+   *  Output :
 
 <p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
 
@@ -65,7 +72,7 @@
       echo ${distroLinuxServer[*]}
       ```
 
-   *  Output - 2 :
+   *  Output :
 
 <p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
 
@@ -85,7 +92,7 @@
       echo ${distroLinuxServer[*]}
       ```
 
-   *  Output - 3 :
+   *  Output :
 
 <p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
 
