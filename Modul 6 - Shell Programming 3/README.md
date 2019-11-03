@@ -138,4 +138,4 @@
       
    *  Output :
 
-<p align="center"><img src="https://i.imgur.com/qFkqOWU.png" width=400 height=300></p>
+<p align="center"><img src="https://imgur.com/xO0Leq3.png" width=400 height=300></p>
