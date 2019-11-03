@@ -35,7 +35,7 @@
       Array_name[index]=value
       ```
       
-      *  Output - 1 :
+   *  Output - 1 :
 
 <p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
 
@@ -45,7 +45,7 @@
       declare -a Array_name
       ```
 
-      *  Output - 2 :
+   *  Output - 2 :
 
 <p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
 
@@ -55,7 +55,7 @@
       declare -a Array_name
       ```
 
-      *  Output - 3 :
+   *  Output - 3 :
 
 <p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
 
