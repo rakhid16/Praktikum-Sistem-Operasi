@@ -4,6 +4,9 @@
 
 ## Array
 
+<p align="center"><img src="https://blog.eduonix.com/wp-content/uploads/2015/09/arrays-in-linux-shell-scripting.jpg" width=600 height=300></p>
+
+
 * <p align=justify>Array merupakan kumpulan variabel dengan tipe sejenis, yang  disimpan  ke  dalam  variabel  dengan  nama  yang sama,  dengan  memberi indeks  pada  variabel  untuk  membedakan  antara  yang  satu  dengan yang lain. Array ialah salah satu hal yang cukup penting dalam bahasa pemrograman, bisa dibayangkan array ini sebagai tumpukan buku - buku dimeja belajar.</p>
 
 * Macam - Macam deklarasi array
