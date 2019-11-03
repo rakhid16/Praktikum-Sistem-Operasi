@@ -63,13 +63,21 @@
       ```bash
       #!/bin/bash
       
-      #deklarasi array compound assignment
-      distroLinuxDesktop=('BlankOn' 'Ubuntu' 'Debian' 'ArchLinux' 'LinuxMint')
-      distroLinuxServer=('UbuntuServer' 'CentOS' 'FedoraServer')
+      # deklarasikan array [Explicit Declaration] :
+      declare -a angka    
 
-      #cara mengambil nilai array
-      echo ${distroLinuxDesktop[*]}
-      echo ${distroLinuxServer[*]}
+      #clear
+      i=0;
+      while [ $i -le 4 ];
+      do
+         let isi=$i*2;
+         angka[$i]=$isi;
+         let i=$i+1;
+      done
+
+      #tampilkan semua elemen array
+      #dengan indexnya berisi "*" atau "@"
+      echo ${angka[@]}  
       ```
 
    *  Output :
