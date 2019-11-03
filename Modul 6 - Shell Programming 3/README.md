@@ -37,18 +37,27 @@
       
       *  Output - 1 :
 
-      <p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
+<p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
 
 ### Contoh - 2 [Explicit Declaration] :
 
       ```
-      Array_name[index]=value
+      declare -a Array_name
       ```
 
       *  Output - 2 :
 
-      <p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
+<p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
 
+### Contoh - 3 [Compound Assignment] :
+
+      ```
+      declare -a Array_name
+      ```
+
+      *  Output - 3 :
+
+<p align="center"><img src="https://i.imgur.com/M4kip2M.jpg" width=400 height=300></p>
 
 
   
