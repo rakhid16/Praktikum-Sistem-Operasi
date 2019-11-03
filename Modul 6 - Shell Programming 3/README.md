@@ -106,7 +106,7 @@
 
 ## Array Multi Dimensi
 
-* <p align=justify>Bash tidak memiliki array multi dimensi. Tetapi dapat mensimulasikan efek yang agak mirip dengan array asosiatif dimensi</p>
+* <p align=justify>Didalam Script Bash, Bash tidak memiliki array multi dimensi. Dikarenakan Bash menyediakan variabel array terindeks dan asosiatif satu dimensi. Variabel apa saja dapat digunakan sebagai array yang diindeks, mendeklarasikan builtin akan secara eksplisit mendeklarasikanarray dll. Tetapi dapat mensimulasikan efek yang agak mirip dengan multi array asosiatif dimensi</p>
 
    *  Contoh :
 
