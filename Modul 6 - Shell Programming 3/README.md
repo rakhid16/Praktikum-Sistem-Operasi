@@ -71,11 +71,6 @@
 
       ```bash
       #!/bin/bash
-
-      for angka in 1 2 3 4 5
-      do
-         echo $angka
-      done
       
       #deklarasi array compound assignment
       distroLinuxDesktop=('BlankOn' 'Ubuntu' 'Debian' 'ArchLinux' 'LinuxMint')
