@@ -24,5 +24,5 @@
 
 Referensi :<br>
 https://techdifferences.com/difference-between-multiprocessing-and-multithreading.html<br>
-https://sebastianraschka.com/Articles/2014_multiprocessing.html
+https://sebastianraschka.com/Articles/2014_multiprocessing.html<br>
 https://github.com/Rakhid16/OArKom/
