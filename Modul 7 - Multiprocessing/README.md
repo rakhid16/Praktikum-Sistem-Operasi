@@ -28,20 +28,24 @@ Masukkan adalah batas dari perulangan tersebut.<br>
 Setelah perulangan selesai program menampilkan waktu eksekusi pemrosesan sekuensial dan paralel.<br>
 
 Contoh <i>input</i> :<br>
-```10```<br>
+```3```<br>
 
 Contoh <i>Output</i> :<br>
 ```
+Sekuensial
 1 Ganjil - ID proses **** 
 2 Genap - ID proses ****
 3 Ganjil - ID proses ****
-4 Genap - ID proses ****
-5 Ganjil - ID proses ****
-6 Genap - ID proses ****
-7 Ganjil - ID proses ****
-8 Genap - ID proses ****
-9 Ganjil - ID proses ****
-10 Genap - ID proses ****
+
+multiprocessing.Process
+1 Ganjil - ID proses ****
+2 Genap - ID proses ****
+3 Ganjil - ID proses ****
+
+multiprocessing.Pool
+1 Ganjil - ID proses ****
+2 Genap - ID proses ****
+3 Ganjil - ID proses ****
 
 Waktu eksekusi sekuensial : ** detik
 Waktu eksekusi multiprocessing.Process : ** detik
