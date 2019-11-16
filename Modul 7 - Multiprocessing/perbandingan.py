@@ -5,7 +5,8 @@ from multiprocessing import cpu_count, Pool, Process
 def cetak(i):
     print("Cetak angka", i+1,"- punya ID proses", getpid())
     sleep(1)
-    
+
+# PAKE INI AJA BIAR NGGAK RIBET(OPSIONAL AJA SIH-NGGAK WAJIB KOK :P)
 if __name__ == '__main__':
     # SEKUENSIAL
     print("Pemrograman Sekuensial")
