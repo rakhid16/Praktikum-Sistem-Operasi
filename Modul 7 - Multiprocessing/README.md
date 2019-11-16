@@ -4,7 +4,7 @@
 <p align=center>
 <img src="https://sebastianraschka.com/images/blog/2014/multiprocessing_intro/multiprocessing_scheme.png" width=550 height=350>
 </p>
-<p align=justify>&emsp;&emsp;&emsp;Objektifitas pada modul 7 adalah melakukan pemrograman paralel(yang merupakan salah satu konsep dasar sistem operasi) dengan <i>Multithreading dan Multiprocessing</i>. Pemrograman paralel adalah sebuah teknik eksekusi perintah yang mana dilakukan secara bersamaan pada CPU. Seluruh bahasa pemrograman yang populer dapat melakukan pemrograman paralel dengan modul bawaan atau memang pengaturan default'nya seperti itu. Praktikan akan melakukan penerapan pemrograman paralel sederhana dengan Python. <i>Multithreading dan Multiprocessing</i> adalah istilah yang serupa tapi tak sama. Berikut adalah penjelasannya :</p>
+<p align=justify>&emsp;&emsp;&emsp;Objektifitas pada modul 7 adalah melakukan pemrograman paralel(yang merupakan salah satu konsep dasar sistem operasi) dengan <i>Multiprocessing</i>. Pemrograman paralel adalah sebuah teknik eksekusi perintah yang mana dilakukan secara bersamaan pada CPU. Seluruh bahasa pemrograman yang populer dapat melakukan pemrograman paralel dengan modul bawaan atau memang pengaturan <i>default</i>'nya seperti itu. Praktikan akan melakukan penerapan pemrograman paralel sederhana dengan Python. Kami memilih Python karena bahasa pemrograman tersebut sudah otomatis terinstal di hampir seluruh sistem operasi berbasis Linux selain itu secara <i>default</i> komputasi di Python dilakukan secara sekuensial. Biarpun sekuensial kita dapat menjadikan'nya paralel dengan fungsi bawaan yang telah disediakan oleh Python</p>
   
 <p align=center>
 <img src="https://techdifferences.com/wp-content/uploads/2017/01/multiprocessing.jpg">
@@ -14,15 +14,6 @@
 3 Memerlukan sumber daya memori dan waktu yang tidak sedikit<br>
 4 Tidak memerlukan sinkronisasi memori<br><br>
 
-<p align=center>
-<img src="https://techdifferences.com/wp-content/uploads/2017/01/Multithreading.jpg">
-</p>
-1 Membuat beberapa <i>thread</i> dari satu proses untuk mempercepat komputasi<br>
-2 Berbagi sumber daya memori<br>
-3 Memerlukan sumber daya memori dan waktu yang sedikit<br>
-4 Memerlukan sinkronisasi memori<br><br>
-
 Referensi :<br>
-https://techdifferences.com/difference-between-multiprocessing-and-multithreading.html<br>
 https://sebastianraschka.com/Articles/2014_multiprocessing.html<br>
 https://github.com/Rakhid16/OArKom/
