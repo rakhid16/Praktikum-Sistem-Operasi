@@ -17,3 +17,33 @@
 Referensi :<br>
 https://sebastianraschka.com/Articles/2014_multiprocessing.html<br>
 https://github.com/Rakhid16/OArKom/
+
+Soal latihan :<br>
+Dengan menggunakan pemrosesan paralel buatlah program yang dapat menentukan sebuah bilangan itu ganjil atau genap!<br>
+
+Batasan :<br>
+Nilai yang dijadikan argumen pada fungsi <b>sleep()</b> adalah satu detik.<br>
+Masukkan jumlah'nya satu dan berupa bilangan bulat.<br>
+Masukkan adalah batas dari perulangan tersebut.<br>
+Setelah perulangan selesai program menampilkan waktu eksekusi pemrosesan sekuensial dan paralel.<br>
+
+Contoh <i>input</i> :<br>
+```10```<br>
+
+Contoh <i>Output</i> :<br>
+```
+1 Ganjil - ID proses **** 
+2 Genap - ID proses ****
+3 Ganjil - ID proses ****
+4 Genap - ID proses ****
+5 Ganjil - ID proses ****
+6 Genap - ID proses ****
+7 Ganjil - ID proses ****
+8 Genap - ID proses ****
+9 Ganjil - ID proses ****
+10 Genap - ID proses ****
+
+Waktu eksekusi sekuensial : ** detik
+Waktu eksekusi multiprocessing.Process : ** detik
+Waktu eksekusi multiprocessing.Pool : ** detik
+```
