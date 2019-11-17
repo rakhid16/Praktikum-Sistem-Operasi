@@ -51,6 +51,7 @@ function namaFungsi {
    Statement-2 command...
    Statement-3 command...   
    Etc
+   
 } 
 ```
 
@@ -106,7 +107,18 @@ nama
 <p align="center"><img src="https://i.imgur.com/B2tIyqN.jpg" width=400 height=300></p>
 
 ## Bash Function Dengan Paramaeter (x, y)
+
+* Deklarasi Function paramater :
   
+```
+function namaFungsi {
+  par1=$1
+  par2=$2
+  command on $arg1
+
+} 
+```
+
 * Contoh :
 
 ```bash
