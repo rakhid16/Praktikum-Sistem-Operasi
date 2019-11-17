@@ -1,6 +1,6 @@
 <p align="right">
 بِسْــــــــــــــمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
-</p>
+</p><br>
 
 <p align="center"><img src="https://i.imgur.com/oXs5qf2.jpg" width=380 height=200></p>
 
