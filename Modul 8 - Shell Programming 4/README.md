@@ -46,31 +46,28 @@ npm
 * Contoh :
 
 ```bash
-  #!/bin/bash
+#!/bin/bash
 
-  # Mendeklarasikan fungsi
-  nama() {
+# Mendeklarasikan fungsi
+nama() {
     echo "Siapa namamu?"
     read nama
     npm                               # <------  Memanggil fungsi di dalam fungsi (fungsi bersarang)
-  }
-  npm() {
+}
+npm() {
     echo "Sebutkan npm mu"
     read npm
     echo -e "Hai $nama dengan npm $npm, selamat datang \n di praktikum sistem operasi yang seru ini ya!"  
-  }
+}
 
-  # Memanggil fungsi
-  nama
+# Memanggil fungsi
+nama
 ```
 
 * Output :
 
 <p align="center"><img src="https://i.imgur.com/B2tIyqN.jpg" width=400 height=300></p>
 
-## Soal Latihan
-* Buatlah program menu yang menerapkan beberapa konsep pemrograman bash seperti diatas !
-  
 ## Soal Latihan
 * Buatlah program array yang dapat menghitung nilai IPK mahasiswa yang menerapkan beberapa konsep pemrograman bash seperti diatas dengan ketentuan sbb!
    -  user input data arrayIPSMahasiswa[index]
