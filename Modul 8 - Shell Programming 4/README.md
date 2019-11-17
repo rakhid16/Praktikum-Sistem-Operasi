@@ -2,7 +2,7 @@
 بِسْــــــــــــــمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
 
-<p align="center"><img src="https://i.imgur.com/oXs5qf2.jpg" width=400 height=220></p>
+<p align="center"><img src="https://i.imgur.com/oXs5qf2.jpg" width=380 height=200></p>
 
 ## BASH Function
 * Apa itu Fungsi bash?
