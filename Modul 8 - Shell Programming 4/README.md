@@ -4,8 +4,8 @@
 
 <p align="center"><img src="https://i.imgur.com/oXs5qf2.jpg" width=400 height=220></p>
 
-## Function
-* Apa itu Fungsi?
+## BASH Function
+* Apa itu Fungsi bash?
 <p><b>Fungsi</b> merupakan bagian script atau program yang berisi kumpulan beberapa statement yang melaksanakan tugas tertentu. dengan subrutin kode script kita tentunya lebih sederhana dan terstruktur, karena sekali fungsi telah dibuat dan berhasil maka akan dapat digunakan kapan saja kita inginkan.</p>
 
 * Deklarasi Function Syntax - 1 :
