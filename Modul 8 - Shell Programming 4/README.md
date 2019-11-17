@@ -2,7 +2,7 @@
 بِسْــــــــــــــمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
 
-<p align="center"><img src="https://i.imgur.com/BFcoBKQ.png" width=500 height=100></p>
+<p align="center"><img src="https://i.imgur.com/oXs5qf2.jpg" width=500 height=100></p>
 
 ## Function
 * Apa itu Fungsi?
