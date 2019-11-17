@@ -6,7 +6,7 @@
 * Apa itu Fungsi?
 <p><b>Fungsi</b> merupakan bagian script atau program yang berisi kumpulan beberapa statement yang melaksanakan tugas tertentu. dengan subrutin kode script kita tentunya lebih sederhana dan terstruktur, karena sekali fungsi telah dibuat dan berhasil maka akan dapat digunakan kapan saja kita inginkan.</p>
 
-* Syntax - 1 :
+* Deklarasi Function Syntax - 1 :
 
 ```
 nama_fungsi () { 
@@ -41,7 +41,7 @@ npm
 
 <p align="center"><img src="https://i.imgur.com/ntXtYCP.jpg" width=400 height=300></p>
 
-* Syntax - 2 :
+* Deklarasi Function Syntax - 2 :
 
 ```
 function namaFungsi {
@@ -58,11 +58,11 @@ function namaFungsi {
 #!/bin/bash
 
 # Mendeklarasikan fungsi
-nama() {
+function nama {
     echo "Siapa namamu?"
     read nama
 }
-npm() {
+function npm {
     echo "Sebutkan npm mu"
     read npm
     echo -e "Hai $nama dengan npm $npm, selamat datang \n di praktikum sistem operasi yang seru ini ya!"  
