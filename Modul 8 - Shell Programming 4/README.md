@@ -105,6 +105,39 @@ nama
 
 <p align="center"><img src="https://i.imgur.com/B2tIyqN.jpg" width=400 height=300></p>
 
+## Bash Function Dengan Paramaeter (x, y)
+  
+* Contoh :
+
+```bash
+#!/bin/bash
+
+# Mendeklarasikan fungsi
+identitas() {
+	nama=$1
+	npm=$2
+	hobi=$3
+	echo "$nama"	
+	echo "$npm"	
+	echo "$hobi"	
+}
+
+echo "Masukkan Nama : "
+read nama
+echo "Masukkan Npm : "
+read npm
+echo "Hobimu Apa :"
+read hobi
+
+printf "\n"
+# Memanggil Fungsi
+identitas $nama $npm $hobi
+```
+
+* Output :
+
+<p align="center"><img src="https://i.imgur.com/wVFyrAP.png" width=400 height=300></p>
+
 ## Soal Latihan
 * Buatlah program bash function yang dapat menghitung luas bidang persegi!
    
