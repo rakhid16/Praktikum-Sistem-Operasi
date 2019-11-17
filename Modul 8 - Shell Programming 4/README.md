@@ -71,3 +71,19 @@
 ## Soal Latihan
 * Buatlah program menu yang menerapkan beberapa konsep pemrograman bash seperti diatas !
   
+## Soal Latihan
+* Buatlah program array yang dapat menghitung nilai IPK mahasiswa yang menerapkan beberapa konsep pemrograman bash seperti diatas dengan ketentuan sbb!
+   -  user input data arrayIPSMahasiswa[index]
+   -  IPK = (jumlah nilai IPS) / (jumlah data IPS) 
+   
+   Contoh Output :
+   
+   ```bash
+   Input : 3
+   4
+   2
+   3
+   
+   IPS mhs = 9 / 3
+   IPK mhs = 3
+   ```
