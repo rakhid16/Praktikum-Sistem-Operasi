@@ -104,7 +104,7 @@ nama
 <p align="center"><img src="https://i.imgur.com/B2tIyqN.jpg" width=400 height=300></p>
 
 ## Soal Latihan
-* Buatlah program function bash yang dapat menghitung luas bidang persegi!
+* Buatlah program bash function yang dapat menghitung luas bidang persegi!
    
 Contoh Output :
    
