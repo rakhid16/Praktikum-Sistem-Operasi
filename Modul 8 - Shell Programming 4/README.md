@@ -9,33 +9,33 @@
 * Syntax :
 
 ```
-  nama_fungsi () { 
+nama_fungsi () { 
     perintah1
     perintah2
     ...
     perintahLain
-  }
+ }
 ```
 
 * Contoh :
 
 ```bash
-  #!/bin/bash
+#!/bin/bash
 
-  # Mendeklarasikan fungsi
-  nama() {
+# Mendeklarasikan fungsi
+nama() {
     echo "Siapa namamu?"
     read nama
-  }
-  npm() {
+}
+npm() {
     echo "Sebutkan npm mu"
     read npm
     echo -e "Hai $nama dengan npm $npm, selamat datang \n di praktikum sistem operasi yang seru ini ya!"  
-  }
+}
 
-  # Memanggil fungsi
-  nama
-  npm
+# Memanggil fungsi
+nama
+npm
 ```
 * Output :
 
