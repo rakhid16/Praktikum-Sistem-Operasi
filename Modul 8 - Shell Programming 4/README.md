@@ -69,18 +69,18 @@ nama
 <p align="center"><img src="https://i.imgur.com/B2tIyqN.jpg" width=400 height=300></p>
 
 ## Soal Latihan
-* Buatlah program array yang dapat menghitung nilai IPK mahasiswa yang menerapkan beberapa konsep pemrograman bash seperti diatas dengan ketentuan sbb!
-   -  user input data arrayIPSMahasiswa[index]
-   -  IPK = (jumlah nilai IPS) / (jumlah data IPS) 
+* Buatlah program function bash yang dapat menghitung luas bidang persegi!
    
-   Contoh Output :
+Contoh Output :
    
-   ```bash
-   Input : 3
-   4
-   2
-   3
+```bash
+Masukkan Panjang :
+10
    
-   IPS mhs = 9 / 3
-   IPK mhs = 3
-   ```
+Masukkan Lebar :
+4
+   
+Luas Persegi :
+40
+   
+```
