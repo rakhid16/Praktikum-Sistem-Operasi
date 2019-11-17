@@ -111,10 +111,10 @@ nama
 * Deklarasi Function paramater :
   
 ```
-function namaFungsi {
+function namaFungsi atau namafungsi() {
   par1=$1
   par2=$2
-  command on $arg1
+  command on $par1
 
 } 
 ```
