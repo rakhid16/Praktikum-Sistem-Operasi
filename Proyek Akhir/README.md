@@ -1,4 +1,6 @@
-
+<p align=right>
+بِسْــــــــــــــمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
+</p>
 Sebelum masuk ke Proyek Akhir :
 1. Buatlah akun Github
 2. Pasang foto profil(tidak harus menampakkan diri yang penting bukan foto <i>default</i> dari Github)
