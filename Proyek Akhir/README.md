@@ -15,13 +15,16 @@ Proyek akhir :
 3. Minimal 200 baris program
 4. Tidak <i>error</i> saat kami jalankan
 
-Yang wajib dikumpulkan ke kami :
+Yang wajib dikumpulkan :
 1. Laporan pengerjaan Proyek Akhir-Google Docs(seperti biasa)
 2. Video demonstrasi program (format file : NPM_Nama)
 3. Tautan repositori github kalian
 
-#### <b> # Batas terkahir pengumpulan "Video Demo Program dan Link Repository Github" tanggal </b> 6 Desember 2019
-#### <b> # Batas terkahir pengumpulan "Laporan Resmi" tanggal </b> 7 Desember 2019
+#### <b> # Batas terakhir pengumpulan "Video Demo Program dan Link Repository Github" tanggal </b> 6 Desember 2019
+---- Dikirim ke komting
+
+#### <b> # Batas terakhir pengumpulan "Laporan Resmi" tanggal </b> 7 Desember 2019
+---- Dikirim ke kami (email)
 
 <br>
 <br>
