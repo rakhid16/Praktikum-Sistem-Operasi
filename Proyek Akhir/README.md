@@ -23,6 +23,9 @@ Yang wajib dikumpulkan ke kami :
 #### <b> # Batas terkahir pengumpulan "Video Demo Program dan Link Repository Github" tanggal </b> 6 Desember 2019
 #### <b> # Batas terkahir pengumpulan "Laporan Resmi" tanggal </b> 7 Desember 2019
 
+<br>
+<br>
+
 <p align=center>
   <img src="https://images.says.com/uploads/story_source/source_image/549127/3bbb.jpg"><br>
   Jangan lupa bahagia (:
