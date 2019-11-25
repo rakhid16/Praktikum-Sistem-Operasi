@@ -21,10 +21,8 @@ Yang wajib dikumpulkan :
 3. Tautan repositori github kalian
 
 #### <b> # Batas terakhir pengumpulan "Video Demo Program dan Link Repository Github" tanggal </b> 6 Desember 2019
----- Dikirim ke komting
 
 #### <b> # Batas terakhir pengumpulan "Laporan Resmi" tanggal </b> 7 Desember 2019
----- Dikirim ke kami (email)
 
 <br>
 <br>
