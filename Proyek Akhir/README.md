@@ -10,11 +10,10 @@ Sebelum masuk ke Proyek Akhir :
 5. Kalo sudah bisa git silahkan pake git!
 
 Proyek akhir :
-1. ...
+1. Buatlah sebuah program yang bermanfaat dan menerapkan minimal 2 konsep dasar sistem operasi
 2. Wajib <i>clean code</i>
-3. Minimal ... baris program
+3. Minimal 200 baris program
 4. Tidak <i>error</i> saat kami jalankan
-5. ...
 
 Yang wajib dikumpulkan ke kami :
 1. Laporan pengerjaan Proyek Akhir-Google Docs(seperti biasa)
