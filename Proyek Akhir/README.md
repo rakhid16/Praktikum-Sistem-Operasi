@@ -20,8 +20,8 @@ Yang wajib dikumpulkan ke kami :
 2. Video demonstrasi program (format file : NPM_Nama)
 3. Tautan repositori github kalian
 
-##### <b> Batas terkahir pengumpulan "Video Demo Program dan Link Repository Github" tanggal </b> 6 Desember 2019
-##### <b> Batas terkahir pengumpulan "Laporan Resmi" tanggal </b> 7 Desember 2019
+##### <b> # Batas terkahir pengumpulan "Video Demo Program dan Link Repository Github" tanggal </b> 6 Desember 2019
+##### <b> # Batas terkahir pengumpulan "Laporan Resmi" tanggal </b> 7 Desember 2019
 
 <p align=center>
   <img src="https://images.says.com/uploads/story_source/source_image/549127/3bbb.jpg"><br>
