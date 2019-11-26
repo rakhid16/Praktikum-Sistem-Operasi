@@ -28,6 +28,5 @@ Yang wajib dikumpulkan :
 <br>
 
 <p align=center>
-  <img src="https://images.says.com/uploads/story_source/source_image/549127/3bbb.jpg"><br>
   Jangan lupa bahagia (:
 </p>
