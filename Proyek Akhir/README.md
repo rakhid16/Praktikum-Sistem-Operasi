@@ -12,7 +12,7 @@ Sebelum masuk ke Proyek Akhir :
 Proyek akhir :
 1. Buatlah sebuah program yang bermanfaat dan menerapkan minimal 2 konsep dasar sistem operasi
 2. Wajib <i>clean code</i>
-3. Minimal 200 baris program
+3. Minimal 175 baris program
 4. Tidak <i>error</i> saat kami jalankan
 
 Yang wajib dikumpulkan :
