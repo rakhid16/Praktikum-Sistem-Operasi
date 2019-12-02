@@ -17,7 +17,7 @@ Proyek akhir :
 
 Yang wajib dikumpulkan :
 1. Laporan pengerjaan Proyek Akhir-Google Docs(seperti biasa)
-2. Video demonstrasi program (upload ke gdrive dengan format file : NPM_Nama) kirim link saja.
+2. Video demonstrasi program (upload ke gdrive dengan format file : NPM_Nama) share link akses saja.
 3. Tautan repositori github kalian
 
 #### <b> # Batas terakhir pengumpulan "Link Video Demo Program dan Link Repository Github" tanggal </b> 6 Desember 2019
