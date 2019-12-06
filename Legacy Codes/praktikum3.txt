@@ -1,0 +1,6 @@
+Sudo chmod 644 skrip1.sh
+Sudo chown Dengklek terserah.sh
+
+       
+Sudo chmod 700 terserah2.sh
+Sudo chown Dengklek terserah2.sh
