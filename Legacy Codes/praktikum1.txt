@@ -1,0 +1,20 @@
+mkdir ‘Semester 3’ \\membuat folder baru
+
+cd ‘Semester 3’ \\memasuki folder
+mkdir ‘SENIN’
+mkdir ‘SELASA’
+mkdir ‘RABU’
+mkdir ‘KAMIS’
+
+
+cd ‘SENIN’
+mkdir ‘Sistem Operasi’
+mkdir ‘Pemrograman Lanjut’
+mkdir ‘Bela Negara’
+
+
+cd ‘Sistem Operasi’
+
+nano deskripsi.txt \\membuat text
+
+cat deskripsi.txt \\membuka text
