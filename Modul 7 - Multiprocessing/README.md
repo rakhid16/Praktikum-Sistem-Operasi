@@ -16,7 +16,7 @@
 
 Referensi :<br>
 https://sebastianraschka.com/Articles/2014_multiprocessing.html<br>
-https://github.com/Rakhid16/Ngampus-/blob/master/Organisasi%20dan%20Arsitektur%20Komputer/Final%20Project.pdf
+https://github.com/Rakhid16/Ngampus-/tree/master/Organisasi%20dan%20Arsitektur%20Komputer
 
 Soal latihan :<br>
 Dengan menggunakan pemrosesan paralel buatlah program yang dapat menentukan sebuah bilangan itu ganjil atau genap!<br>
